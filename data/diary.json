@@ -698,5 +698,19 @@
   "tmdb": 25768,
   "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/8/0/8/35808-steamboat-bill-jr--0-600-0-900-crop.jpg?v=ad7722e288",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1515044498",
+  "slug": "how-to-steal-a-million",
+  "title": "How to Steal a Million",
+  "year": 1966,
+  "watchedDate": "2026-09-28",
+  "published": "Tue, 29 Sep 2026 05:36:23 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": true,
+  "tmdb": 3001,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/oj/5y/5t/gx/x6KBn2tXkXMOsBy85gJrB21VZRt-0-600-0-900-crop.jpg?v=35320e4d7e",
+  "review": ""
  }
 ]

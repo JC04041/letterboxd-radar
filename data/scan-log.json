@@ -601,5 +601,27 @@
   },
   "found": 1643,
   "total": 2098
+ },
+ {
+  "t": "2026-09-28T16:57:39.895Z",
+  "mode": "auto",
+  "jobs": {
+   "verify:related": 3
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 4,
+  "http": {
+   "requests": 8,
+   "ok": 5,
+   "notFound": 3,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 866809
+  },
+  "found": 1644,
+  "total": 2099
  }
 ]
