@@ -63,5 +63,41 @@
   },
   "found": 1004,
   "total": 2098
+ },
+ {
+  "t": "2026-09-28T05:25:14.018Z",
+  "mode": "auto",
+  "jobs": {
+   "director:core": 3,
+   "verify:core": 130,
+   "meta:seen": 185,
+   "meta:core-unseen": 823,
+   "director:seen": 400,
+   "verify:related": 700,
+   "verify:other": 360
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {
+   "meta:seen": 6,
+   "director:seen": 91,
+   "verify:related": 1006,
+   "verify:other": 2288,
+   "verify:canon": 302,
+   "meta:candidates": 757,
+   "director:refresh": 6
+  },
+  "seconds": 1307,
+  "http": {
+   "requests": 2606,
+   "ok": 1607,
+   "notFound": 999,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 251582644
+  },
+  "found": 1195,
+  "total": 2098
  }
 ]
