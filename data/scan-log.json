@@ -903,5 +903,25 @@
   },
   "found": 1644,
   "total": 2099
+ },
+ {
+  "t": "2026-09-28T23:29:47.342Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 2,
+  "http": {
+   "requests": 5,
+   "ok": 5,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 857593
+  },
+  "found": 1644,
+  "total": 2099
  }
 ]
