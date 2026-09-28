@@ -1,0 +1,86 @@
+name: Radar
+
+# Scans the Letterboxd profile every 30 minutes, rebuilds the site data and publishes it to
+# GitHub Pages. Nothing to configure: the profile name lives in config.json.
+#
+# Code and scan data live on `main`. The site is served from `gh-pages`, which is also the
+# repository's default branch, so this file lives in both places (scheduled runs use the
+# default branch's copy). Every publish is one commit on top of gh-pages' root commit, which
+# holds this workflow file, so the branch never grows.
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'auto = normal, full = rescan every list, quick = profile only'
+        default: auto
+  push:
+    branches: [main]
+    paths: ['scraper/**', 'analysis/**', 'site/**', 'config.json', 'package*.json', '.github/workflows/radar.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npm test
+
+      - name: Scan Letterboxd
+        id: scan
+        continue-on-error: true
+        run: node scraper/scan.js
+        env:
+          RADAR_BUDGET_MIN: '22'
+          RADAR_MODE: ${{ inputs.mode || 'auto' }}
+
+      - name: Build site data
+        run: node analysis/build.js
+
+      - name: Commit scan data
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "no data changes"; exit 0; fi
+          git commit -q -m "Scan $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4; do git pull --rebase -q -X theirs && git push -q && exit 0; sleep $((i * 5)); done
+          exit 1
+
+      - name: Publish to GitHub Pages
+        run: |
+          git fetch -q origin gh-pages
+          base=$(git rev-list --max-parents=0 FETCH_HEAD | tail -n 1)
+          rm -rf "$RUNNER_TEMP/pub" && git worktree add -q --detach "$RUNNER_TEMP/pub" "$base"
+          cp -r site/. "$RUNNER_TEMP/pub/"
+          cd "$RUNNER_TEMP/pub"
+          git add -A
+          git commit -q -m "Publish $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f origin HEAD:gh-pages
+
+      - name: Check the live site
+        continue-on-error: true
+        run: |
+          owner="${GITHUB_REPOSITORY_OWNER,,}"; repo="${GITHUB_REPOSITORY#*/}"
+          for f in "" "data/radar.json"; do
+            echo "https://${owner}.github.io/${repo}/${f} -> $(curl -s -o /dev/null -w '%{http_code}' "https://${owner}.github.io/${repo}/${f}")"
+          done
+
+      - name: Fail if the scan failed
+        if: steps.scan.outcome == 'failure'
+        run: exit 1

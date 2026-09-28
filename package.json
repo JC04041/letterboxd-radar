@@ -1,0 +1,16 @@
+{
+  "name": "letterboxd-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-updating film radar for a Letterboxd profile",
+  "scripts": {
+    "scan": "node scraper/scan.js",
+    "build": "node analysis/build.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

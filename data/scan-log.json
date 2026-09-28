@@ -1,0 +1,35 @@
+[
+ {
+  "t": "2026-09-28T01:09:18.395Z",
+  "mode": "auto",
+  "jobs": {
+   "meta:seen": 847,
+   "director:core": 104,
+   "verify:core": 1860
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": true,
+  "pending": {
+   "meta:seen": 1,
+   "verify:core": 605,
+   "meta:core-unseen": 1627,
+   "director:seen": 387,
+   "verify:related": 1590,
+   "verify:canon": 118,
+   "meta:candidates": 1193,
+   "director:refresh": 145
+  },
+  "seconds": 1473,
+  "http": {
+   "requests": 2938,
+   "ok": 1356,
+   "notFound": 1582,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 280776595
+  },
+  "found": 948,
+  "total": 2098
+ }
+]

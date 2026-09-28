@@ -1,0 +1,13 @@
+{
+  "username": "JosephCurrid",
+  "top100List": "favourite-from-my-top-100-filmmakers",
+  "canonLists": [
+    "official/list/letterboxds-top-500-films",
+    "dave/list/official-top-250-narrative-feature-films",
+    "dave/list/imdb-top-250"
+  ],
+  "budgetMinutes": 20,
+  "fullScanHours": 6,
+  "requestsPerSecond": 2,
+  "concurrency": 3
+}
