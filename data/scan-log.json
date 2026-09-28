@@ -99,5 +99,36 @@
   },
   "found": 1195,
   "total": 2098
+ },
+ {
+  "t": "2026-09-28T05:55:16.368Z",
+  "mode": "auto",
+  "jobs": {
+   "meta:seen": 213,
+   "director:seen": 165,
+   "verify:related": 700,
+   "verify:other": 1200,
+   "verify:canon": 248,
+   "meta:candidates": 60
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {
+   "verify:related": 432,
+   "verify:other": 2511,
+   "meta:candidates": 2146
+  },
+  "seconds": 1295,
+  "http": {
+   "requests": 2591,
+   "ok": 650,
+   "notFound": 1941,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 115820224
+  },
+  "found": 1402,
+  "total": 2098
  }
 ]
