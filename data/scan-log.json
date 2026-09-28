@@ -191,5 +191,33 @@
   },
   "found": 1605,
   "total": 2098
+ },
+ {
+  "t": "2026-09-28T07:25:22.886Z",
+  "mode": "auto",
+  "jobs": {
+   "meta:seen": 39,
+   "verify:related": 16,
+   "verify:other": 1196,
+   "director:seen": 11,
+   "meta:candidates": 1340
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": true,
+  "pending": {
+   "meta:candidates": 1181
+  },
+  "seconds": 1310,
+  "http": {
+   "requests": 2621,
+   "ok": 1447,
+   "notFound": 1174,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 252051890
+  },
+  "found": 1643,
+  "total": 2098
  }
 ]
