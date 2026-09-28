@@ -15,12 +15,16 @@ on:
       mode:
         description: 'auto = normal, full = rescan every list, quick = profile only'
         default: auto
+      chained:
+        description: 'Set by the previous run: wait until 30 minutes after the last scan'
+        default: 'false'
   push:
     branches: [main]
     paths: ['scraper/**', 'analysis/**', 'site/**', 'config.json', 'package*.json', '.github/workflows/radar.yml']
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: radar
@@ -38,6 +42,14 @@ jobs:
         with:
           node-version: 22
           cache: npm
+      - name: Pace chained runs
+        if: github.event_name == 'workflow_dispatch' && inputs.chained == 'true'
+        run: |
+          last=$(node -e "const p=require('./data/profile.json');console.log(Math.floor(Date.parse(p.lastScan||0)/1000))")
+          wait=$(( last + 1800 - $(date +%s) ))
+          if [ "$wait" -gt 1800 ]; then wait=1800; fi
+          if [ "$wait" -gt 0 ]; then echo "waiting ${wait}s"; sleep "$wait"; fi
+          git pull -q --ff-only origin main
       - run: npm ci --no-audit --no-fund
       - run: npm test
 
@@ -80,6 +92,16 @@ jobs:
           for f in "" "data/radar.json"; do
             echo "https://${owner}.github.io/${repo}/${f} -> $(curl -s -o /dev/null -w '%{http_code}' "https://${owner}.github.io/${repo}/${f}")"
           done
+
+      - name: Queue the next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # GitHub's cron is best-effort, so each run queues the next. Keep exactly one waiting.
+          active=$(gh run list -R "$GITHUB_REPOSITORY" -w radar.yml -L 20 --json status,databaseId \
+            -q "[.[] | select(.databaseId != ${GITHUB_RUN_ID}) | select(.status != \"completed\")] | length")
+          if [ "$active" = "0" ]; then gh workflow run radar.yml -R "$GITHUB_REPOSITORY" --ref main -f chained=true; echo "next run queued"; else echo "a run is already queued"; fi
 
       - name: Fail if the scan failed
         if: steps.scan.outcome == 'failure'
