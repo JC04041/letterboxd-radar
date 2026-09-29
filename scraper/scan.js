@@ -35,6 +35,7 @@ const http = new Http({ concurrency: +(cfg.concurrency || 3), minIntervalMs: Mat
 const films = new ShardedStore('films', 64);
 const seen = new ShardedStore('seen', 32);
 const directors = new ShardedStore('directors', 32);
+const actors = new ShardedStore('actors', 16);
 const profile = readJson(paths.profile(), {});
 const events = readJson(paths.events(), []);
 const diary = readJson(paths.diary(), []);
@@ -140,6 +141,19 @@ async function fetchDirector(slug, { announce = false } = {}) {
   }
   directors.set(slug, rec);
   return rec;
+}
+
+// Actor filmographies: another way to find films the member has seen. If Letterboxd challenges
+// these pages, remember that for a month instead of retrying every run.
+async function fetchActor(slug) {
+  try {
+    const r = await http.get(`${LB}/actor/${slug}/`);
+    if (r.status === 404) return actors.set(slug, { f: [], c: today(), gone: 1 });
+    actors.set(slug, { f: P.parsePosterGrid(r.text).map(i => i.slug), c: today() });
+  } catch (e) {
+    if (e instanceof Blocked) actors.set(slug, { f: [], c: today(), blocked: 1 });
+    throw e;
+  }
 }
 
 // Fetch every page of a list (list pagination via /page/N/ is allowed).
@@ -347,7 +361,7 @@ function planJobs() {
   const dirsByWeight = [...dirCount.entries()].sort((a, b) => b[1] - a[1]);
   add('director:seen', 'director', dirsByWeight.map(x => x[0]).filter(d => !directors.has(d)), 400);
   const related = [];
-  for (const [s, r] of seen.entries()) if (r[0] === 1 && (r[1] || 0) >= 3.5) for (const x of films.get(s)?.rel || []) related.push(x);
+  for (const [s, r] of seen.entries()) if (r[0] === 1) for (const x of films.get(s)?.rel || []) related.push(x);
   add('verify:related', 'verify', unverified(related), 700);
   const other = [];
   for (const [d, n] of dirsByWeight) {
@@ -356,6 +370,21 @@ function planJobs() {
     for (const x of (directors.get(d)?.f || []).slice(0, depth)) other.push(x[0]);
   }
   add('verify:other', 'verify', unverified(other), 1200);
+  // Full filmographies of every director you've watched (their less popular titles).
+  const deep = [];
+  for (const [d] of dirsByWeight) for (const x of directors.get(d)?.f || []) deep.push(x[0]);
+  add('verify:deep', 'verify', unverified(deep), 1000);
+  // Actors who appear in 2+ films you've seen: check their most popular films.
+  const castCount = new Map();
+  for (const [s, r] of seen.entries()) {
+    if (r[0] !== 1) continue;
+    for (const [a] of (films.get(s)?.cast || []).slice(0, 6)) castCount.set(a, (castCount.get(a) || 0) + 1);
+  }
+  const castByWeight = [...castCount.entries()].filter(([, n]) => n >= 2).sort((a, b) => b[1] - a[1]);
+  add('actor:seen', 'actor', castByWeight.map(x => x[0]).filter(a => !actors.has(a) || (actors.get(a).blocked && daysSince(actors.get(a).c) > 30)), 150);
+  const castFilms = [];
+  for (const [a, n] of castByWeight) for (const x of (actors.get(a)?.f || []).slice(0, n >= 5 ? 60 : n >= 3 ? 35 : 20)) castFilms.push(x);
+  add('verify:actors', 'verify', unverified(castFilms), 1000);
 
   // 4. Recommendation candidates: related films of loved films, canon lists, well-liked directors.
   const canon = [...new Set(Object.values(profile.canon || {}).flatMap(c => c.items || []))];
@@ -385,6 +414,7 @@ async function runJob(type, key, coreSet) {
   if (type === 'meta') return fetchFilm(key);
   if (type === 'verify') return checkSeen(key);
   if (type === 'director') return fetchDirector(key, { announce: coreSet.has(key) });
+  if (type === 'actor') return fetchActor(key);
 }
 
 async function enrich() {
@@ -400,7 +430,7 @@ async function enrich() {
       const todo = qu.keys.filter(k => !done.has(qu.type + ':' + k));
       if (!todo.length) continue;
       const room = qu.cap * (round + 1) - (used[qu.name] || 0);
-      picked = { ...qu, keys: todo.slice(0, Math.min(qu.type === 'director' ? 12 : 60, room)) };
+      picked = { ...qu, keys: todo.slice(0, Math.min(qu.type === 'director' || qu.type === 'actor' ? 12 : 60, room)) };
       break;
     }
     if (!picked) {
@@ -455,6 +485,7 @@ function saveStores() {
   films.save();
   seen.save();
   directors.save();
+  actors.save();
 }
 
 function saveAll() {

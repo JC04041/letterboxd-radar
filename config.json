@@ -4,7 +4,8 @@
   "canonLists": [
     "official/list/letterboxds-top-500-films",
     "dave/list/official-top-250-narrative-feature-films",
-    "dave/list/imdb-top-250"
+    "dave/list/imdb-top-250",
+    "official/list/top-250-films-with-the-most-fans"
   ],
   "budgetMinutes": 20,
   "fullScanHours": 6,
