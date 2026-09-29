@@ -1059,5 +1059,40 @@
   },
   "found": 1725,
   "total": 2099
+ },
+ {
+  "t": "2026-09-29T02:30:36.643Z",
+  "mode": "auto",
+  "jobs": {
+   "verify:related": 54,
+   "verify:other": 262,
+   "meta:seen": 48,
+   "verify:deep": 1000,
+   "actor:seen": 150,
+   "verify:actors": 1000,
+   "director:seen": 42,
+   "verify:canon": 8,
+   "meta:candidates": 60
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {
+   "verify:deep": 219,
+   "actor:seen": 1448,
+   "verify:actors": 4684,
+   "meta:candidates": 247
+  },
+  "seconds": 1316,
+  "http": {
+   "requests": 2629,
+   "ok": 353,
+   "notFound": 2276,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 76826313
+  },
+  "found": 1773,
+  "total": 2099
  }
 ]
