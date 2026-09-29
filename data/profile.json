@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2099,
+ "watchedTotal": 2100,
  "recent": [
   "heart-of-the-beast-2026",
   "resident-evil-2026",
@@ -85,16 +85,16 @@
  ],
  "listsIndex": [
   {
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 115,
+   "description": ""
+  },
+  {
    "slug": "favourite-from-my-top-100-filmmakers",
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
-  },
-  {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 114,
-   "description": ""
   },
   {
    "slug": "tom-cruise-ranked",
@@ -2570,9 +2570,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 114,
+   "count": 115,
    "ranked": true,
-   "updated": "2026-09-25T23:06:18.749Z",
+   "updated": "2026-09-29T04:30:42.412Z",
    "at": "2026-09-29",
    "items": [
     [
@@ -2642,6 +2642,10 @@
     [
      "28-years-later-the-bone-temple",
      4
+    ],
+    [
+     "the-rivals-of-amziah-king",
+     3.5
     ],
     [
      "on-a-string",
@@ -6469,5 +6473,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-09-29T04:23:32.035Z"
+ "lastScan": "2026-09-29T04:53:33.818Z"
 }
