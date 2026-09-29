@@ -1129,5 +1129,39 @@
   },
   "found": 1802,
   "total": 2099
+ },
+ {
+  "t": "2026-09-29T03:23:25.416Z",
+  "mode": "auto",
+  "jobs": {
+   "meta:seen": 32,
+   "director:seen": 33,
+   "verify:related": 25,
+   "verify:other": 158,
+   "verify:deep": 75,
+   "actor:seen": 300,
+   "verify:actors": 1960,
+   "meta:candidates": 30
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {
+   "meta:seen": 1,
+   "actor:seen": 892,
+   "verify:actors": 7294,
+   "meta:candidates": 20
+  },
+  "seconds": 1315,
+  "http": {
+   "requests": 2618,
+   "ok": 431,
+   "notFound": 2187,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 89163405
+  },
+  "found": 1833,
+  "total": 2099
  }
 ]
