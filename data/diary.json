@@ -726,5 +726,19 @@
   "tmdb": 1124142,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/1/3/2/9/8/1013298-the-rivals-of-amziah-king-0-600-0-900-crop.jpg?v=7714bd135c",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1516877031",
+  "slug": "brute-force",
+  "title": "Brute Force",
+  "year": 1947,
+  "watchedDate": "2026-09-29",
+  "published": "Wed, 30 Sep 2026 13:31:41 +1300",
+  "rewatch": false,
+  "rating": 4,
+  "liked": true,
+  "tmdb": 28297,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/4/4/55844-brute-force-0-600-0-900-crop.jpg?v=a3803bc06d",
+  "review": ""
  }
 ]
