@@ -2605,5 +2605,25 @@
   },
   "found": 1935,
   "total": 2102
+ },
+ {
+  "t": "2026-09-30T11:30:52.781Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 2,
+  "http": {
+   "requests": 5,
+   "ok": 5,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 859556
+  },
+  "found": 1935,
+  "total": 2102
  }
 ]
