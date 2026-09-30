@@ -740,5 +740,19 @@
   "tmdb": 28297,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/5/8/4/4/55844-brute-force-0-600-0-900-crop.jpg?v=a3803bc06d",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1517144112",
+  "slug": "the-naked-city",
+  "title": "The Naked City",
+  "year": 1948,
+  "watchedDate": "2026-09-30",
+  "published": "Wed, 30 Sep 2026 17:58:44 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 20482,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/8/5/38985-the-naked-city-0-600-0-900-crop.jpg?v=1fc9c5a290",
+  "review": ""
  }
 ]
