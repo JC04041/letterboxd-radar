@@ -754,5 +754,19 @@
   "tmdb": 20482,
   "poster": "https://a.ltrbxd.com/resized/film-poster/3/8/9/8/5/38985-the-naked-city-0-600-0-900-crop.jpg?v=1fc9c5a290",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1518368913",
+  "slug": "youre-next",
+  "title": "You're Next",
+  "year": 2011,
+  "watchedDate": "2026-10-01",
+  "published": "Thu, 1 Oct 2026 17:39:13 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 83899,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/8i/yg/d5/m5/qhVj0F09RFtQdBrBMPhrdzivRcI-0-600-0-900-crop.jpg?v=14c38e8d4b",
+  "review": ""
  }
 ]
