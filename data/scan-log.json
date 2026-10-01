@@ -4032,5 +4032,25 @@
   },
   "found": 1937,
   "total": 2104
+ },
+ {
+  "t": "2026-10-01T20:09:52.366Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": true,
+  "pending": {},
+  "seconds": 10,
+  "http": {
+   "requests": 19,
+   "ok": 19,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 3397437
+  },
+  "found": 1937,
+  "total": 2104
  }
 ]
