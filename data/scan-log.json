@@ -3949,5 +3949,28 @@
   },
   "found": 1936,
   "total": 2103
+ },
+ {
+  "t": "2026-10-01T18:09:37.539Z",
+  "mode": "auto",
+  "jobs": {
+   "actor:seen": 2,
+   "verify:actors": 3
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 6,
+  "http": {
+   "requests": 12,
+   "ok": 9,
+   "notFound": 3,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 1686181
+  },
+  "found": 1937,
+  "total": 2104
  }
 ]
