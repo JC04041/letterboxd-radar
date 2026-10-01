@@ -3829,5 +3829,25 @@
   },
   "found": 1936,
   "total": 2103
+ },
+ {
+  "t": "2026-10-01T15:38:31.612Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 3,
+  "http": {
+   "requests": 5,
+   "ok": 5,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 859590
+  },
+  "found": 1936,
+  "total": 2103
  }
 ]
