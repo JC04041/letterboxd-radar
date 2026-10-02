@@ -796,5 +796,19 @@
   "tmdb": 244,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/2/51812-king-kong-0-600-0-900-crop.jpg?v=a05d839067",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1519768668",
+  "slug": "malignant-2021",
+  "title": "Malignant",
+  "year": 2021,
+  "watchedDate": "2026-10-02",
+  "published": "Fri, 2 Oct 2026 21:14:09 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 619778,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/6/3/4/8/546348-malignant-0-600-0-900-crop.jpg?v=11e0d82f5d",
+  "review": ""
  }
 ]
