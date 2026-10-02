@@ -5143,5 +5143,29 @@
   },
   "found": 1940,
   "total": 2107
+ },
+ {
+  "t": "2026-10-02T21:16:19.565Z",
+  "mode": "auto",
+  "jobs": {
+   "meta:seen": 1,
+   "verify:related": 3,
+   "meta:candidates": 24
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 17,
+  "http": {
+   "requests": 33,
+   "ok": 30,
+   "notFound": 3,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 5069481
+  },
+  "found": 1941,
+  "total": 2108
  }
 ]
