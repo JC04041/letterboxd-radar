@@ -70,5 +70,17 @@
   "rewatch": false,
   "date": "2026-10-01",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-02T02:11:56.764Z",
+  "type": "watch",
+  "slug": "king-kong",
+  "title": "King Kong",
+  "year": 1933,
+  "rating": 3.5,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-02",
+  "via": "diary"
  }
 ]

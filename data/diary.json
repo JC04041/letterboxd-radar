@@ -782,5 +782,19 @@
   "tmdb": 977942,
   "poster": "https://a.ltrbxd.com/resized/film-poster/8/8/0/4/2/5/880425-the-uprising-2026-0-600-0-900-crop.jpg?v=71d42e25d2",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1519464976",
+  "slug": "king-kong",
+  "title": "King Kong",
+  "year": 1933,
+  "watchedDate": "2026-10-02",
+  "published": "Fri, 2 Oct 2026 14:55:02 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": true,
+  "tmdb": 244,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/2/51812-king-kong-0-600-0-900-crop.jpg?v=a05d839067",
+  "review": ""
  }
 ]
