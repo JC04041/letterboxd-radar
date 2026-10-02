@@ -4419,5 +4419,25 @@
   },
   "found": 1938,
   "total": 2105
+ },
+ {
+  "t": "2026-10-02T04:42:10.085Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 3,
+  "http": {
+   "requests": 5,
+   "ok": 5,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 859558
+  },
+  "found": 1938,
+  "total": 2105
  }
 ]
