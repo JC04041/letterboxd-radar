@@ -5813,5 +5813,28 @@
   },
   "found": 1942,
   "total": 2109
+ },
+ {
+  "t": "2026-10-03T12:19:58.536Z",
+  "mode": "auto",
+  "jobs": {
+   "actor:seen": 2,
+   "verify:actors": 22
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 15,
+  "http": {
+   "requests": 29,
+   "ok": 7,
+   "notFound": 22,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 1291081
+  },
+  "found": 1943,
+  "total": 2110
  }
 ]

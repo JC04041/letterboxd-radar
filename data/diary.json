@@ -866,5 +866,19 @@
   "tmdb": 609,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/1/2/51512-poltergeist-0-600-0-900-crop.jpg?v=bf882f6595",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1521407042",
+  "slug": "bride-of-frankenstein",
+  "title": "Bride of Frankenstein",
+  "year": 1935,
+  "watchedDate": "2026-10-03",
+  "published": "Sun, 4 Oct 2026 01:18:49 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": true,
+  "tmdb": 229,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/p7/zi/45/xn/5241zUwe7rC17MNc2QpCBKKdp1N-0-600-0-900-crop.jpg?v=0431699bb4",
+  "review": ""
  }
 ]
