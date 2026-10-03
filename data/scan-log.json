@@ -5627,5 +5627,31 @@
   },
   "found": 1941,
   "total": 2108
+ },
+ {
+  "t": "2026-10-03T08:18:55.599Z",
+  "mode": "auto",
+  "jobs": {
+   "meta:seen": 1,
+   "verify:related": 1,
+   "actor:seen": 1,
+   "verify:actors": 1,
+   "meta:candidates": 23
+  },
+  "blocked": 0,
+  "notes": [],
+  "full": true,
+  "pending": {},
+  "seconds": 23,
+  "http": {
+   "requests": 46,
+   "ok": 44,
+   "notFound": 2,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 7919433
+  },
+  "found": 1942,
+  "total": 2109
  }
 ]

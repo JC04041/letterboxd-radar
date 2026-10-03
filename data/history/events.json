@@ -118,5 +118,17 @@
   "rewatch": false,
   "date": "2026-10-02",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-03T08:18:55.978Z",
+  "type": "watch",
+  "slug": "poltergeist",
+  "title": "Poltergeist",
+  "year": 1982,
+  "rating": 3,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-10-03",
+  "via": "diary"
  }
 ]
