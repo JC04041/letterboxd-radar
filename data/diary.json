@@ -908,5 +908,19 @@
   "tmdb": 294963,
   "poster": "https://a.ltrbxd.com/resized/film-poster/2/2/2/2/9/8/222298-bone-tomahawk-0-600-0-900-crop.jpg?v=de275d2399",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1523388226",
+  "slug": "dawn-of-the-dead",
+  "title": "Dawn of the Dead",
+  "year": 1978,
+  "watchedDate": "2026-10-04",
+  "published": "Mon, 5 Oct 2026 04:40:56 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": false,
+  "tmdb": 923,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/q9/17/om/9y/8D6WEfNZr6JadQrqJr5OOq1QlV0-0-600-0-900-crop.jpg?v=b65bcfbd46",
+  "review": ""
  }
 ]
