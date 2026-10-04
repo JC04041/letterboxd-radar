@@ -2573,7 +2573,7 @@
    "count": 116,
    "ranked": true,
    "updated": "2026-10-01T18:00:46.166Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "tuner",
@@ -3046,7 +3046,7 @@
    "count": 28,
    "ranked": true,
    "updated": "2026-09-16T03:13:29.819Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "magnolia",
@@ -3167,7 +3167,7 @@
    "count": 1,
    "ranked": true,
    "updated": "2026-09-09T22:21:19.759Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "company-2026",
@@ -3180,7 +3180,7 @@
    "count": 23,
    "ranked": false,
    "updated": "2026-08-12T15:22:36.085Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "collateral",
@@ -3281,7 +3281,7 @@
    "count": 13,
    "ranked": true,
    "updated": "2026-07-22T12:30:58.399Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "inception",
@@ -3342,7 +3342,7 @@
    "count": 31,
    "ranked": true,
    "updated": "2026-06-10T22:04:23.746Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "the-fabelmans",
@@ -3475,7 +3475,7 @@
    "count": 15,
    "ranked": true,
    "updated": "2026-05-08T20:32:58.966Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "dazed-and-confused",
@@ -3544,7 +3544,7 @@
    "count": 151,
    "ranked": false,
    "updated": "2026-03-31T23:49:56.952Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "rap-world",
@@ -4157,7 +4157,7 @@
    "count": 167,
    "ranked": true,
    "updated": "2026-03-28T17:03:37.534Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "one-battle-after-another",
@@ -4834,7 +4834,7 @@
    "count": 50,
    "ranked": true,
    "updated": "2026-03-16T02:48:50.298Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "one-flew-over-the-cuckoos-nest",
@@ -5043,7 +5043,7 @@
    "count": 100,
    "ranked": true,
    "updated": "2026-01-22T23:50:37.899Z",
-   "at": "2026-10-03",
+   "at": "2026-10-04",
    "items": [
     [
      "the-assassination-of-jesse-james-by-the-coward-robert-ford",
@@ -5448,7 +5448,7 @@
    ]
   }
  },
- "lastFull": "2026-10-03T20:22:22.595Z",
+ "lastFull": "2026-10-04T02:24:21.268Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6477,5 +6477,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-04T01:54:19.160Z"
+ "lastScan": "2026-10-04T02:24:21.268Z"
 }
