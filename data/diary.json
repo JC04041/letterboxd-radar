@@ -880,5 +880,19 @@
   "tmdb": 229,
   "poster": "https://a.ltrbxd.com/resized/sm/upload/p7/zi/45/xn/5241zUwe7rC17MNc2QpCBKKdp1N-0-600-0-900-crop.jpg?v=0431699bb4",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1522759703",
+  "slug": "twin-peaks-fire-walk-with-me",
+  "title": "Twin Peaks: Fire Walk with Me",
+  "year": 1992,
+  "watchedDate": "2026-10-04",
+  "published": "Sun, 4 Oct 2026 17:29:19 +1300",
+  "rewatch": false,
+  "rating": 4.5,
+  "liked": true,
+  "tmdb": 1923,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/xb/qg/78/zd/tOQekTHJmVCgfUYXTb6dLAu6l8W-0-600-0-900-crop.jpg?v=647348df81",
+  "review": ""
  }
 ]

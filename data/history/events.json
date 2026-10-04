@@ -142,5 +142,17 @@
   "rewatch": false,
   "date": "2026-10-03",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-04T04:54:34.128Z",
+  "type": "watch",
+  "slug": "twin-peaks-fire-walk-with-me",
+  "title": "Twin Peaks: Fire Walk with Me",
+  "year": 1992,
+  "rating": 4.5,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-04",
+  "via": "diary"
  }
 ]
