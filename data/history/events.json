@@ -160,5 +160,17 @@
   "type": "wl+",
   "slug": "the-scout-2025",
   "title": "The Scout"
+ },
+ {
+  "t": "2026-10-04T09:55:41.971Z",
+  "type": "watch",
+  "slug": "bone-tomahawk",
+  "title": "Bone Tomahawk",
+  "year": 2015,
+  "rating": 4.5,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-04",
+  "via": "diary"
  }
 ]
