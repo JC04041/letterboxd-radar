@@ -98,12 +98,6 @@
    "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
   },
   {
-   "slug": "tom-cruise-ranked",
-   "title": "Tom Cruise Ranked",
-   "count": 28,
-   "description": "Every Tom Cruise Movie Ranked"
-  },
-  {
    "slug": "2027-ranked",
    "title": "2027 Ranked",
    "count": 1,
@@ -156,6 +150,12 @@
    "title": "Top 100 16/01/2026",
    "count": 100,
    "description": "Rough Ranking - Vibes Not Star RatingsDirectors With 3+ Films: Paul Thomas Anderson - 5 Martin Scorsese - 4 David Fincher - 4 Quentin Tarantino - 3 Christopher Nolan - 3 Darren Aronofsky - 3"
+  },
+  {
+   "slug": "favourite-first-time-watches-of-2025",
+   "title": "Favourite First Time Watches Of 2025",
+   "count": 20,
+   "description": ""
   }
  ],
  "top100": {
@@ -3046,127 +3046,6 @@
     ]
    ]
   },
-  "tom-cruise-ranked": {
-   "title": "Tom Cruise Ranked",
-   "count": 28,
-   "ranked": true,
-   "updated": "2026-09-16T03:13:29.819Z",
-   "at": "2026-10-05",
-   "items": [
-    [
-     "magnolia",
-     5
-    ],
-    [
-     "collateral",
-     4.5
-    ],
-    [
-     "the-color-of-money",
-     4.5
-    ],
-    [
-     "rain-man",
-     4.5
-    ],
-    [
-     "minority-report",
-     4
-    ],
-    [
-     "jerry-maguire",
-     4
-    ],
-    [
-     "mission-impossible-ghost-protocol",
-     4
-    ],
-    [
-     "the-outsiders",
-     4
-    ],
-    [
-     "mission-impossible-dead-reckoning",
-     4
-    ],
-    [
-     "mission-impossible-fallout",
-     4
-    ],
-    [
-     "mission-impossible",
-     4
-    ],
-    [
-     "mission-impossible-iii",
-     4
-    ],
-    [
-     "mission-impossible-rogue-nation",
-     4
-    ],
-    [
-     "born-on-the-fourth-of-july",
-     3.5
-    ],
-    [
-     "american-made",
-     3.5
-    ],
-    [
-     "tropic-thunder",
-     3.5
-    ],
-    [
-     "war-of-the-worlds",
-     3.5
-    ],
-    [
-     "edge-of-tomorrow",
-     3.5
-    ],
-    [
-     "top-gun",
-     3
-    ],
-    [
-     "days-of-thunder",
-     3
-    ],
-    [
-     "vanilla-sky",
-     3
-    ],
-    [
-     "mission-impossible-the-final-reckoning",
-     2.5
-    ],
-    [
-     "mission-impossible-ii",
-     2.5
-    ],
-    [
-     "legend",
-     2.5
-    ],
-    [
-     "oblivion-2013",
-     2
-    ],
-    [
-     "lions-for-lambs",
-     2
-    ],
-    [
-     "interview-with-the-vampire",
-     1
-    ],
-    [
-     "valkyrie",
-     1.5
-    ]
-   ]
-  },
   "2027-ranked": {
    "title": "2027 Ranked",
    "count": 1,
@@ -5451,6 +5330,95 @@
      4.5
     ]
    ]
+  },
+  "favourite-first-time-watches-of-2025": {
+   "title": "Favourite First Time Watches Of 2025",
+   "count": 20,
+   "ranked": false,
+   "updated": "2026-01-01T04:13:31.910Z",
+   "at": "2026-10-05",
+   "items": [
+    [
+     "heaven-knows-what",
+     5
+    ],
+    [
+     "magnolia",
+     5
+    ],
+    [
+     "gattaca",
+     5
+    ],
+    [
+     "chungking-express",
+     5
+    ],
+    [
+     "bay-of-angels",
+     5
+    ],
+    [
+     "one-battle-after-another",
+     5
+    ],
+    [
+     "clerks",
+     5
+    ],
+    [
+     "possessor",
+     4.5
+    ],
+    [
+     "election",
+     4.5
+    ],
+    [
+     "barefoot-in-the-park",
+     4.5
+    ],
+    [
+     "cloverfield",
+     4.5
+    ],
+    [
+     "sugar-2008",
+     4.5
+    ],
+    [
+     "the-lady-eve",
+     4.5
+    ],
+    [
+     "hair",
+     4.5
+    ],
+    [
+     "nickel-boys",
+     4.5
+    ],
+    [
+     "klute",
+     4.5
+    ],
+    [
+     "train-dreams",
+     4.5
+    ],
+    [
+     "late-shift-2025",
+     4.5
+    ],
+    [
+     "bill-teds-excellent-adventure",
+     4.5
+    ],
+    [
+     "battle-royale",
+     4.5
+    ]
+   ]
   }
  },
  "lastFull": "2026-10-05T14:32:55.453Z",
@@ -6482,5 +6450,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-05T17:03:07.839Z"
+ "lastScan": "2026-10-05T17:33:09.425Z"
 }
