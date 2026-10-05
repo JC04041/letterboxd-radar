@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2114,
+ "watchedTotal": 2115,
  "recent": [
   "digger-2026",
   "heart-of-the-beast-2026",
@@ -51,6 +51,7 @@
   "the-super-mario-galaxy-movie",
   "they-will-kill-you",
   "the-drama",
+  "dreamquil",
   "over-your-dead-body-2026",
   "hokum",
   "mike-nick-nick-alice",
@@ -71,8 +72,7 @@
   "wuthering-heights-2026",
   "shelter-2026",
   "crime-101",
-  "the-wrecking-crew-2026",
-  "the-weight-2026"
+  "the-wrecking-crew-2026"
  ],
  "watchlist": [
   "the-scout-2025",
@@ -88,7 +88,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 116,
+   "count": 117,
    "description": ""
   },
   {
@@ -2571,9 +2571,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 116,
+   "count": 117,
    "ranked": true,
-   "updated": "2026-10-01T18:00:46.166Z",
+   "updated": "2026-10-05T14:18:44.542Z",
    "at": "2026-10-05",
    "items": [
     [
@@ -2850,6 +2850,10 @@
     ],
     [
      "the-uprising-2026",
+     2.5
+    ],
+    [
+     "dreamquil",
      2.5
     ],
     [
@@ -5449,7 +5453,7 @@
    ]
   }
  },
- "lastFull": "2026-10-05T08:31:39.813Z",
+ "lastFull": "2026-10-05T14:32:55.453Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6478,5 +6482,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-05T14:02:53.531Z"
+ "lastScan": "2026-10-05T14:32:55.453Z"
 }
