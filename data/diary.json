@@ -992,5 +992,19 @@
   "tmdb": 438674,
   "poster": "https://a.ltrbxd.com/resized/film-poster/3/7/1/4/6/4/371464-dragged-across-concrete-0-600-0-900-crop.jpg?v=6eb51e66f2",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1527756209",
+  "slug": "onslaught-2026",
+  "title": "Onslaught",
+  "year": 2026,
+  "watchedDate": "2026-10-07",
+  "published": "Thu, 8 Oct 2026 08:16:30 +1300",
+  "rewatch": false,
+  "rating": 2,
+  "liked": false,
+  "tmdb": 1284046,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/3/2/8/1167328-onslaught-2026-0-600-0-900-crop.jpg?v=54130fd313",
+  "review": ""
  }
 ]

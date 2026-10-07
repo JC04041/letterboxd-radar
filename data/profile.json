@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2118,
+ "watchedTotal": 2119,
  "recent": [
   "digger-2026",
   "heart-of-the-beast-2026",
@@ -9,6 +9,7 @@
   "primetime-2026",
   "a-place-to-heal",
   "wild-horse-nine",
+  "onslaught-2026",
   "the-uprising-2026",
   "ink-2026",
   "the-dog-stars",
@@ -71,8 +72,7 @@
   "goat-2026",
   "wuthering-heights-2026",
   "shelter-2026",
-  "crime-101",
-  "the-wrecking-crew-2026"
+  "crime-101"
  ],
  "watchlist": [
   "the-scout-2025",
@@ -88,7 +88,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 117,
+   "count": 118,
    "description": ""
   },
   {
@@ -2571,9 +2571,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 117,
+   "count": 118,
    "ranked": true,
-   "updated": "2026-10-05T14:18:44.542Z",
+   "updated": "2026-10-07T19:17:02.646Z",
    "at": "2026-10-07",
    "items": [
     [
@@ -2903,6 +2903,10 @@
     [
      "the-serpents-skin",
      2.5
+    ],
+    [
+     "onslaught-2026",
+     2
     ],
     [
      "soulm8te",
@@ -6450,5 +6454,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-07T18:59:57.877Z"
+ "lastScan": "2026-10-07T19:29:59.446Z"
 }
