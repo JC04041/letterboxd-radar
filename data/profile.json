@@ -88,7 +88,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 118,
+   "count": 120,
    "description": ""
   },
   {
@@ -2571,9 +2571,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 118,
+   "count": 120,
    "ranked": true,
-   "updated": "2026-10-07T19:17:02.646Z",
+   "updated": "2026-10-08T15:30:47.425Z",
    "at": "2026-10-08",
    "items": [
     [
@@ -2649,6 +2649,10 @@
      3.5
     ],
     [
+     "union-county-2026",
+     3.5
+    ],
+    [
      "on-a-string",
      3.5
     ],
@@ -2667,10 +2671,6 @@
     [
      "the-drama",
      3.5
-    ],
-    [
-     "the-weight-2026",
-     3
     ],
     [
      "faces-of-death-2026",
@@ -2701,7 +2701,15 @@
      3.5
     ],
     [
+     "the-weight-2026",
+     3
+    ],
+    [
      "good-luck-have-fun-dont-die",
+     3.5
+    ],
+    [
+     "digger-2026",
      3.5
     ],
     [
@@ -6454,5 +6462,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-08T15:05:13.524Z"
+ "lastScan": "2026-10-08T15:35:15.622Z"
 }
