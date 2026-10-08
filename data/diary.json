@@ -1006,5 +1006,19 @@
   "tmdb": 1284046,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/3/2/8/1167328-onslaught-2026-0-600-0-900-crop.jpg?v=54130fd313",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1528530172",
+  "slug": "the-man-who-laughs",
+  "title": "The Man Who Laughs",
+  "year": 1928,
+  "watchedDate": "2026-10-08",
+  "published": "Thu, 8 Oct 2026 21:51:23 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 27517,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/3/4/4/4/9/34449-the-man-who-laughs-0-600-0-900-crop.jpg?v=bab7794482",
+  "review": ""
  }
 ]
