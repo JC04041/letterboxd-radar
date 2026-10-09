@@ -268,5 +268,17 @@
   "rewatch": false,
   "date": "2026-10-08",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-09T10:09:36.881Z",
+  "type": "watch",
+  "slug": "animals-2026",
+  "title": "Animals",
+  "year": 2026,
+  "rating": 1,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-10-09",
+  "via": "diary"
  }
 ]

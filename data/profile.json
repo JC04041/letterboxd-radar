@@ -1,6 +1,7 @@
 {
- "watchedTotal": 2120,
+ "watchedTotal": 2121,
  "recent": [
+  "animals-2026",
   "digger-2026",
   "heart-of-the-beast-2026",
   "resident-evil-2026",
@@ -71,8 +72,7 @@
   "war-machine-2026",
   "goat-2026",
   "wuthering-heights-2026",
-  "shelter-2026",
-  "crime-101"
+  "shelter-2026"
  ],
  "watchlist": [
   "the-scout-2025",
@@ -88,7 +88,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 120,
+   "count": 121,
    "description": ""
   },
   {
@@ -2571,9 +2571,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 120,
+   "count": 121,
    "ranked": true,
-   "updated": "2026-10-08T15:30:47.425Z",
+   "updated": "2026-10-09T10:06:26.294Z",
    "at": "2026-10-09",
    "items": [
     [
@@ -3035,6 +3035,10 @@
     [
      "cold-storage-2026",
      1.5
+    ],
+    [
+     "animals-2026",
+     1
     ],
     [
      "balls-up-2026",
@@ -6462,5 +6466,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-09T09:39:33.073Z"
+ "lastScan": "2026-10-09T10:09:36.422Z"
 }
