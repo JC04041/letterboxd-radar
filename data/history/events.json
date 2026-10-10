@@ -292,5 +292,25 @@
   "rewatch": false,
   "date": "2026-10-09",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-10T10:44:37.068Z",
+  "type": "watch",
+  "slug": "the-texas-chain-saw-massacre",
+  "title": "The Texas Chain Saw Massacre",
+  "year": 1974,
+  "rating": 4,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-10-10",
+  "via": "diary"
+ },
+ {
+  "t": "2026-10-10T10:44:37.068Z",
+  "type": "rate",
+  "slug": "the-texas-chain-saw-massacre",
+  "title": "The Texas Chain Saw Massacre",
+  "from": 3,
+  "to": 4
  }
 ]

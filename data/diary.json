@@ -1048,5 +1048,19 @@
   "tmdb": 9533,
   "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/6/7/47067-red-dragon-0-600-0-900-crop.jpg?v=cde2a9e624",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1531249004",
+  "slug": "the-texas-chain-saw-massacre",
+  "title": "The Texas Chain Saw Massacre",
+  "year": 1974,
+  "watchedDate": "2026-10-10",
+  "published": "Sat, 10 Oct 2026 23:43:21 +1300",
+  "rewatch": true,
+  "rating": 4,
+  "liked": true,
+  "tmdb": 30497,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/3/1/9/8/5/31985-the-texas-chain-saw-massacre-0-600-0-900-crop.jpg?v=c63b3f1958",
+  "review": ""
  }
 ]
