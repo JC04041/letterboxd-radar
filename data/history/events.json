@@ -280,5 +280,17 @@
   "rewatch": false,
   "date": "2026-10-09",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-10T08:44:25.967Z",
+  "type": "watch",
+  "slug": "red-dragon",
+  "title": "Red Dragon",
+  "year": 2002,
+  "rating": 3,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-10-09",
+  "via": "diary"
  }
 ]

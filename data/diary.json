@@ -1034,5 +1034,19 @@
   "tmdb": 1236045,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/1/9/2/3/4/1119234-animals-2026-2-0-600-0-900-crop.jpg?v=6c15da80a6",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1531155396",
+  "slug": "red-dragon",
+  "title": "Red Dragon",
+  "year": 2002,
+  "watchedDate": "2026-10-09",
+  "published": "Sat, 10 Oct 2026 21:24:12 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 9533,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/4/7/0/6/7/47067-red-dragon-0-600-0-900-crop.jpg?v=cde2a9e624",
+  "review": ""
  }
 ]
