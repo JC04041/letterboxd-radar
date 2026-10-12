@@ -1090,5 +1090,19 @@
   "tmdb": 15516,
   "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/3/1/1/42311-the-last-house-on-the-left-0-600-0-900-crop.jpg?v=42951be620",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1535188887",
+  "slug": "late-fame",
+  "title": "Late Fame",
+  "year": 2025,
+  "watchedDate": "2026-10-12",
+  "published": "Tue, 13 Oct 2026 06:27:36 +1300",
+  "rewatch": false,
+  "rating": 2.5,
+  "liked": false,
+  "tmdb": 1285895,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/9/2/1/0/1169210-late-fame-0-600-0-900-crop.jpg?v=6ef3c974be",
+  "review": ""
  }
 ]
