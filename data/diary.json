@@ -1118,5 +1118,19 @@
   "tmdb": 931,
   "poster": "https://a.ltrbxd.com/resized/sm/upload/b1/xg/44/w1/mK1SxllUiyAjtugZg3M64e2CTu3-0-600-0-900-crop.jpg?v=caa512b778",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1538261858",
+  "slug": "the-exorcist-iii",
+  "title": "The Exorcist III",
+  "year": 1990,
+  "watchedDate": "2026-10-14",
+  "published": "Thu, 15 Oct 2026 09:48:53 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 11587,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/1/6/3/45163-the-exorcist-iii-0-600-0-900-crop.jpg?v=d9653fd3b9",
+  "review": ""
  }
 ]

@@ -360,5 +360,17 @@
   "rewatch": false,
   "date": "2026-10-13",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-14T21:09:40.621Z",
+  "type": "watch",
+  "slug": "the-exorcist-iii",
+  "title": "The Exorcist III",
+  "year": 1990,
+  "rating": 3,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-10-14",
+  "via": "diary"
  }
 ]
