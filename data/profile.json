@@ -2574,7 +2574,7 @@
    "count": 122,
    "ranked": true,
    "updated": "2026-10-12T17:28:15.111Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "tuner",
@@ -3071,7 +3071,7 @@
    "count": 1,
    "ranked": true,
    "updated": "2026-09-09T22:21:19.759Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "company-2026",
@@ -3084,7 +3084,7 @@
    "count": 23,
    "ranked": false,
    "updated": "2026-08-12T15:22:36.085Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "collateral",
@@ -3185,7 +3185,7 @@
    "count": 13,
    "ranked": true,
    "updated": "2026-07-22T12:30:58.399Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "inception",
@@ -3246,7 +3246,7 @@
    "count": 31,
    "ranked": true,
    "updated": "2026-06-10T22:04:23.746Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "the-fabelmans",
@@ -3379,7 +3379,7 @@
    "count": 15,
    "ranked": true,
    "updated": "2026-05-08T20:32:58.966Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "dazed-and-confused",
@@ -3448,7 +3448,7 @@
    "count": 151,
    "ranked": false,
    "updated": "2026-03-31T23:49:56.952Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "rap-world",
@@ -4061,7 +4061,7 @@
    "count": 167,
    "ranked": true,
    "updated": "2026-03-28T17:03:37.534Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "one-battle-after-another",
@@ -4738,7 +4738,7 @@
    "count": 50,
    "ranked": true,
    "updated": "2026-03-16T02:48:50.298Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "one-flew-over-the-cuckoos-nest",
@@ -4947,7 +4947,7 @@
    "count": 100,
    "ranked": true,
    "updated": "2026-01-22T23:50:37.899Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "the-assassination-of-jesse-james-by-the-coward-robert-ford",
@@ -5356,7 +5356,7 @@
    "count": 20,
    "ranked": false,
    "updated": "2026-01-01T04:13:31.910Z",
-   "at": "2026-10-13",
+   "at": "2026-10-14",
    "items": [
     [
      "heaven-knows-what",
@@ -5441,7 +5441,7 @@
    ]
   }
  },
- "lastFull": "2026-10-13T21:32:41.347Z",
+ "lastFull": "2026-10-14T03:34:47.279Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6470,5 +6470,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-14T03:04:44.349Z"
+ "lastScan": "2026-10-14T03:34:47.279Z"
 }
