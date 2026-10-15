@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2127,
+ "watchedTotal": 2128,
  "recent": [
   "animals-2026",
   "digger-2026",
@@ -88,7 +88,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 122,
+   "count": 123,
    "description": ""
   },
   {
@@ -2571,9 +2571,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 122,
+   "count": 123,
    "ranked": true,
-   "updated": "2026-10-12T17:28:15.111Z",
+   "updated": "2026-10-15T18:04:57.507Z",
    "at": "2026-10-15",
    "items": [
     [
@@ -2597,15 +2597,15 @@
      4
     ],
     [
-     "tony-2026",
-     4
-    ],
-    [
      "resident-evil-2026",
      4
     ],
     [
      "the-odyssey-2026",
+     4
+    ],
+    [
+     "tony-2026",
      4
     ],
     [
@@ -2866,6 +2866,10 @@
     ],
     [
      "late-fame",
+     2.5
+    ],
+    [
+     "buddy-2026",
      2.5
     ],
     [
@@ -6470,5 +6474,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-15T17:45:26.224Z"
+ "lastScan": "2026-10-15T18:15:32.060Z"
 }
