@@ -384,5 +384,17 @@
   "rewatch": false,
   "date": "2026-10-15",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-16T14:52:23.770Z",
+  "type": "watch",
+  "slug": "the-return-of-the-living-dead",
+  "title": "The Return of the Living Dead",
+  "year": 1985,
+  "rating": 3,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-10-16",
+  "via": "diary"
  }
 ]

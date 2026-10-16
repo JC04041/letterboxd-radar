@@ -1146,5 +1146,19 @@
   "tmdb": 1514026,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/8/9/7/1/4/1389714-buddy-2026-0-600-0-900-crop.jpg?v=6a078eb95a",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1540466262",
+  "slug": "the-return-of-the-living-dead",
+  "title": "The Return of the Living Dead",
+  "year": 1985,
+  "watchedDate": "2026-10-16",
+  "published": "Sat, 17 Oct 2026 03:51:28 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 10925,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/7/6/8/45768-the-return-of-the-living-dead-0-600-0-900-crop.jpg?v=c49bf1856e",
+  "review": ""
  }
 ]
