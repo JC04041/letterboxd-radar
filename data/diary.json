@@ -1202,5 +1202,19 @@
   "tmdb": 1401459,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/8/5/1/6/8/1285168-fjord-2026-0-600-0-900-crop.jpg?v=12a10d5226",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1542654950",
+  "slug": "the-shop-around-the-corner",
+  "title": "The Shop Around the Corner",
+  "year": 1940,
+  "watchedDate": "2026-10-17",
+  "published": "Sun, 18 Oct 2026 11:53:20 +1300",
+  "rewatch": false,
+  "rating": 4,
+  "liked": true,
+  "tmdb": 20334,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/8/2/39082-the-shop-around-the-corner-0-600-0-900-crop.jpg?v=a4fee3dd22",
+  "review": ""
  }
 ]
