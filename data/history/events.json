@@ -467,5 +467,17 @@
   "t": "2026-10-18T15:36:37.191Z",
   "type": "soon+",
   "name": "Possibly Soon"
+ },
+ {
+  "t": "2026-10-18T18:07:34.157Z",
+  "type": "watch",
+  "slug": "get-out-2017",
+  "title": "Get Out",
+  "year": 2017,
+  "rating": 4,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-18",
+  "via": "diary"
  }
 ]

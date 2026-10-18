@@ -1216,5 +1216,19 @@
   "tmdb": 20334,
   "poster": "https://a.ltrbxd.com/resized/film-poster/3/9/0/8/2/39082-the-shop-around-the-corner-0-600-0-900-crop.jpg?v=a4fee3dd22",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1543992881",
+  "slug": "get-out-2017",
+  "title": "Get Out",
+  "year": 2017,
+  "watchedDate": "2026-10-18",
+  "published": "Mon, 19 Oct 2026 07:06:41 +1300",
+  "rewatch": false,
+  "rating": 4,
+  "liked": true,
+  "tmdb": 419430,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/1/1/7/353117-get-out-0-600-0-900-crop.jpg?v=136acec030",
+  "review": ""
  }
 ]
