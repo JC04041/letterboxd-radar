@@ -86,16 +86,16 @@
  ],
  "listsIndex": [
   {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 123,
-   "description": ""
-  },
-  {
    "slug": "favourite-from-my-top-100-filmmakers",
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
+  },
+  {
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 123,
+   "description": ""
   },
   {
    "slug": "2027-ranked",
@@ -161,7 +161,7 @@
  "top100": {
   "slug": "favourite-from-my-top-100-filmmakers",
   "title": "Favourite From My Top 100 Filmmakers",
-  "updated": "2026-09-26T19:42:39.435Z",
+  "updated": "2026-10-18T15:32:13.935Z",
   "notes": {
    "ranked": [
     {
@@ -567,8 +567,11 @@
    ],
    "sections": [
     {
-     "heading": "Possibly Soon",
+     "heading": "WILL BE ADDED SOON",
      "names": [
+      "Zahler",
+      "Lubitsch",
+      "Possibly Soon",
       "Carol Reed",
       "Kenneth Lonnergan",
       "Elaine May",
@@ -2093,8 +2096,26 @@
   ],
   "sections": [
    {
-    "heading": "Possibly Soon",
+    "heading": "WILL BE ADDED SOON",
     "names": [
+     {
+      "name": "Zahler",
+      "slugs": [
+       "s-craig-zahler"
+      ]
+     },
+     {
+      "name": "Lubitsch",
+      "slugs": [
+       "ernst-lubitsch"
+      ]
+     },
+     {
+      "name": "Possibly Soon",
+      "slugs": [
+       "peter-sohn"
+      ]
+     },
      {
       "name": "Carol Reed",
       "slugs": [
@@ -2164,7 +2185,7 @@
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "ranked": true,
-   "updated": "2026-09-26T19:42:39.435Z",
+   "updated": "2026-10-18T15:32:13.935Z",
    "at": "2026-10-18",
    "items": [
     [
@@ -6474,5 +6495,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-18T15:06:32.268Z"
+ "lastScan": "2026-10-18T15:36:34.479Z"
 }
