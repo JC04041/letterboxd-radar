@@ -1230,5 +1230,19 @@
   "tmdb": 419430,
   "poster": "https://a.ltrbxd.com/resized/film-poster/3/5/3/1/1/7/353117-get-out-0-600-0-900-crop.jpg?v=136acec030",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1545756544",
+  "slug": "the-debut-2026",
+  "title": "The Debut",
+  "year": 2026,
+  "watchedDate": "2026-10-19",
+  "published": "Tue, 20 Oct 2026 08:35:41 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 1391239,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/7/5/4/9/7/1275497-untitled-jesse-eisenberg-musical-comedy-0-600-0-900-crop.jpg?v=06eb654267",
+  "review": ""
  }
 ]
