@@ -86,16 +86,16 @@
  ],
  "listsIndex": [
   {
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 125,
+   "description": ""
+  },
+  {
    "slug": "favourite-from-my-top-100-filmmakers",
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
-  },
-  {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 123,
-   "description": ""
   },
   {
    "slug": "2027-ranked",
@@ -2592,9 +2592,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 123,
+   "count": 125,
    "ranked": true,
-   "updated": "2026-10-15T18:04:57.507Z",
+   "updated": "2026-10-19T20:17:15.398Z",
    "at": "2026-10-19",
    "items": [
     [
@@ -2608,6 +2608,10 @@
     [
      "color-book",
      4
+    ],
+    [
+     "the-debut-2026",
+     0
     ],
     [
      "her-private-hell-2026",
@@ -2658,14 +2662,6 @@
      4
     ],
     [
-     "the-christophers",
-     4
-    ],
-    [
-     "28-years-later-the-bone-temple",
-     4
-    ],
-    [
      "the-rivals-of-amziah-king",
      3.5
     ],
@@ -2678,11 +2674,27 @@
      3.5
     ],
     [
+     "fjord-2026",
+     0
+    ],
+    [
+     "the-christophers",
+     4
+    ],
+    [
+     "28-years-later-the-bone-temple",
+     4
+    ],
+    [
      "our-hero-balthazar",
      3.5
     ],
     [
      "send-help",
+     3.5
+    ],
+    [
+     "digger-2026",
      3.5
     ],
     [
@@ -2727,10 +2739,6 @@
     ],
     [
      "good-luck-have-fun-dont-die",
-     3.5
-    ],
-    [
-     "digger-2026",
      3.5
     ],
     [
@@ -6495,5 +6503,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-19T19:59:27.668Z"
+ "lastScan": "2026-10-19T20:29:30.319Z"
 }
