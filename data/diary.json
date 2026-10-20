@@ -1272,5 +1272,19 @@
   "tmdb": 270303,
   "poster": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-600-0-900-crop.jpg?v=0f234ef9c3",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1547399830",
+  "slug": "the-cabinet-of-dr-caligari-1920",
+  "title": "The Cabinet of Dr. Caligari",
+  "year": 1920,
+  "watchedDate": "2026-10-20",
+  "published": "Wed, 21 Oct 2026 12:16:08 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 234,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/2/51822-the-cabinet-of-dr-caligari-0-600-0-900-crop.jpg?v=385b332ed8",
+  "review": ""
  }
 ]
