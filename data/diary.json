@@ -1258,5 +1258,19 @@
   "tmdb": 805,
   "poster": "https://a.ltrbxd.com/resized/sm/upload/ea/vc/su/y2/fdLOXB8AysEGRL44I1RvoKiWDcW-0-600-0-900-crop.jpg?v=8e18e4f70c",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1546959253",
+  "slug": "it-follows",
+  "title": "It Follows",
+  "year": 2014,
+  "watchedDate": "2026-10-20",
+  "published": "Wed, 21 Oct 2026 06:16:00 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 270303,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/zr/lv/9v/wy/4MrwJZr0R9LbyOgZqwLNmtzzxbu-0-600-0-900-crop.jpg?v=0f234ef9c3",
+  "review": ""
  }
 ]

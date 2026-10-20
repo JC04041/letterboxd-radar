@@ -503,5 +503,17 @@
   "rewatch": false,
   "date": "2026-10-19",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-20T17:34:35.048Z",
+  "type": "watch",
+  "slug": "it-follows",
+  "title": "It Follows",
+  "year": 2014,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-20",
+  "via": "diary"
  }
 ]
