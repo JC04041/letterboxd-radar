@@ -205,5 +205,14 @@
   "watchlist": 8,
   "films": 9201,
   "directors": 1085
+ },
+ "2026-10-21": {
+  "found": 1971,
+  "total": 2137,
+  "rated": 1965,
+  "avg": 3.296,
+  "watchlist": 8,
+  "films": 9201,
+  "directors": 1085
  }
 }
