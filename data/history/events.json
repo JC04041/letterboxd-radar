@@ -539,5 +539,17 @@
   "rewatch": false,
   "date": "2026-10-21",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-21T23:42:59.648Z",
+  "type": "watch",
+  "slug": "godzilla",
+  "title": "Godzilla",
+  "year": 1954,
+  "rating": 3.5,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-21",
+  "via": "diary"
  }
 ]

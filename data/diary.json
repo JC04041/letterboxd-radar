@@ -1300,5 +1300,19 @@
   "tmdb": 1198654,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/3/3/3/1/1083331-bad-apples-0-600-0-900-crop.jpg?v=9ca0220221",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1548702557",
+  "slug": "godzilla",
+  "title": "Godzilla",
+  "year": 1954,
+  "watchedDate": "2026-10-21",
+  "published": "Thu, 22 Oct 2026 12:18:58 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": true,
+  "tmdb": 1678,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0",
+  "review": ""
  }
 ]
