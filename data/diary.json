@@ -1286,5 +1286,19 @@
   "tmdb": 234,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/2/51822-the-cabinet-of-dr-caligari-0-600-0-900-crop.jpg?v=385b332ed8",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1548185129",
+  "slug": "bad-apples-2025",
+  "title": "Bad Apples",
+  "year": 2025,
+  "watchedDate": "2026-10-21",
+  "published": "Thu, 22 Oct 2026 05:17:44 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 1198654,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/8/3/3/3/1/1083331-bad-apples-0-600-0-900-crop.jpg?v=9ca0220221",
+  "review": ""
  }
 ]

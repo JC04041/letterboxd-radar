@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2137,
+ "watchedTotal": 2138,
  "recent": [
   "animals-2026",
   "digger-2026",
@@ -88,7 +88,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 125,
+   "count": 126,
    "description": ""
   },
   {
@@ -2592,9 +2592,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 125,
+   "count": 126,
    "ranked": true,
-   "updated": "2026-10-19T20:17:15.398Z",
+   "updated": "2026-10-21T16:18:31.964Z",
    "at": "2026-10-21",
    "items": [
     [
@@ -2795,6 +2795,10 @@
     ],
     [
      "dont-say-good-luck",
+     3
+    ],
+    [
+     "bad-apples-2025",
      3
     ],
     [
@@ -5474,7 +5478,7 @@
    ]
   }
  },
- "lastFull": "2026-10-21T10:39:47.991Z",
+ "lastFull": "2026-10-21T16:40:53.656Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6503,5 +6507,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-21T16:10:51.800Z"
+ "lastScan": "2026-10-21T16:40:53.656Z"
 }
