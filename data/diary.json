@@ -1314,5 +1314,19 @@
   "tmdb": 1678,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-600-0-900-crop.jpg?v=2b549c08f0",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1549570518",
+  "slug": "love-of-your-life",
+  "title": "Love of Your Life",
+  "year": 2026,
+  "watchedDate": "2026-10-22",
+  "published": "Fri, 23 Oct 2026 07:08:16 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 1381078,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/9/2/2/1266922-love-of-your-life-0-600-0-900-crop.jpg?v=7a6d5c6675",
+  "review": ""
  }
 ]
