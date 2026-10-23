@@ -575,5 +575,17 @@
   "rewatch": false,
   "date": "2026-10-22",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-23T19:43:40.032Z",
+  "type": "watch",
+  "slug": "the-third-man",
+  "title": "The Third Man",
+  "year": 1949,
+  "rating": 4,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-23",
+  "via": "diary"
  }
 ]
