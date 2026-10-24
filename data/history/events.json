@@ -599,5 +599,35 @@
   "rewatch": false,
   "date": "2026-10-23",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-24T20:21:10.042Z",
+  "type": "watch",
+  "slug": "key-largo",
+  "title": "Key Largo",
+  "year": 1948,
+  "rating": null,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-10-24",
+  "via": "diary"
+ },
+ {
+  "t": "2026-10-24T20:21:11.191Z",
+  "type": "wl+",
+  "slug": "infernal-affairs",
+  "title": "Infernal Affairs"
+ },
+ {
+  "t": "2026-10-24T20:21:11.191Z",
+  "type": "wl+",
+  "slug": "belle-de-jour",
+  "title": "Belle de Jour"
+ },
+ {
+  "t": "2026-10-24T20:21:11.191Z",
+  "type": "wl+",
+  "slug": "and-god-created-woman",
+  "title": "...And God Created Woman"
  }
 ]
