@@ -646,5 +646,17 @@
   "t": "2026-10-25T00:23:01.561Z",
   "type": "wl-",
   "slug": "infernal-affairs"
+ },
+ {
+  "t": "2026-10-25T17:56:49.586Z",
+  "type": "watch",
+  "slug": "clayface",
+  "title": "Clayface",
+  "year": 2026,
+  "rating": 2.5,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-10-25",
+  "via": "diary"
  }
 ]
