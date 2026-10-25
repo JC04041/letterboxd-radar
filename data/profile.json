@@ -90,7 +90,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 128,
+   "count": 129,
    "description": ""
   },
   {
@@ -2594,9 +2594,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 128,
+   "count": 129,
    "ranked": true,
-   "updated": "2026-10-23T17:08:51.745Z",
+   "updated": "2026-10-25T18:06:39.980Z",
    "at": "2026-10-25",
    "items": [
     [
@@ -2901,6 +2901,10 @@
     ],
     [
      "the-uprising-2026",
+     2.5
+    ],
+    [
+     "clayface",
      2.5
     ],
     [
@@ -5488,7 +5492,7 @@
    ]
   }
  },
- "lastFull": "2026-10-25T12:25:37.382Z",
+ "lastFull": "2026-10-25T18:27:43.731Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6517,5 +6521,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-25T17:57:40.524Z"
+ "lastScan": "2026-10-25T18:27:43.731Z"
 }
