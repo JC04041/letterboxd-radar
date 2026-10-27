@@ -1440,5 +1440,19 @@
   "tmdb": 15484,
   "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/3/4/1/42341-shadows-0-600-0-900-crop.jpg?v=d5306e5453",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1558562324",
+  "slug": "slap-shot",
+  "title": "Slap Shot",
+  "year": 1977,
+  "watchedDate": "2026-10-27",
+  "published": "Wed, 28 Oct 2026 09:04:03 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 11590,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/4/5/1/6/0/45160-slap-shot-0-600-0-900-crop.jpg?v=264d3ade51",
+  "review": ""
  }
 ]
