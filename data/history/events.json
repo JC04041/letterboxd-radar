@@ -846,5 +846,22 @@
   "t": "2026-10-28T14:44:52.836Z",
   "type": "wl-",
   "slug": "the-daytrippers"
+ },
+ {
+  "t": "2026-10-28T18:15:11.553Z",
+  "type": "watch",
+  "slug": "far-from-the-madding-crowd-2015",
+  "title": "Far from the Madding Crowd",
+  "year": 2015,
+  "rating": 4,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-28",
+  "via": "diary"
+ },
+ {
+  "t": "2026-10-28T18:15:12.381Z",
+  "type": "wl-",
+  "slug": "far-from-the-madding-crowd-2015"
  }
 ]
