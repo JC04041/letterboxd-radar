@@ -712,5 +712,122 @@
   "type": "wl+",
   "slug": "far-from-the-madding-crowd-2015",
   "title": "Far from the Madding Crowd"
+ },
+ {
+  "t": "2026-10-28T00:11:02.858Z",
+  "type": "newfilm",
+  "director": "martin-scorsese",
+  "name": "Martin Scorsese",
+  "slug": "aldeas-a-new-story",
+  "title": "Aldeas: A New Story",
+  "year": 2026
+ },
+ {
+  "t": "2026-10-28T00:11:04.879Z",
+  "type": "newfilm",
+  "director": "quentin-tarantino",
+  "name": "Quentin Tarantino",
+  "slug": "untitled-quentin-tarantino-film",
+  "title": "Untitled Quentin Tarantino Film",
+  "year": null
+ },
+ {
+  "t": "2026-10-28T00:11:18.344Z",
+  "type": "newfilm",
+  "director": "bong-joon-ho",
+  "name": "Bong Joon Ho",
+  "slug": "untitled-bong-joon-ho-horror-film",
+  "title": "Untitled Bong Joon-ho Horror Film",
+  "year": null
+ },
+ {
+  "t": "2026-10-28T00:11:24.856Z",
+  "type": "newfilm",
+  "director": "alfred-hitchcock",
+  "name": "Alfred Hitchcock",
+  "slug": "lamb-to-the-slaughter-1958",
+  "title": "Lamb to the Slaughter",
+  "year": 1958
+ },
+ {
+  "t": "2026-10-28T00:11:27.389Z",
+  "type": "newfilm",
+  "director": "derek-cianfrance",
+  "name": "Derek Cianfrance",
+  "slug": "hatchet-2",
+  "title": "Hatchet",
+  "year": null
+ },
+ {
+  "t": "2026-10-28T00:11:30.354Z",
+  "type": "newfilm",
+  "director": "ridley-scott",
+  "name": "Ridley Scott",
+  "slug": "treasure-island-2027",
+  "title": "Treasure Island",
+  "year": 2027
+ },
+ {
+  "t": "2026-10-28T00:11:37.363Z",
+  "type": "newfilm",
+  "director": "david-lynch",
+  "name": "David Lynch",
+  "slug": "twin-peaks-log-lady-introductions",
+  "title": "Twin Peaks: Log Lady Introductions",
+  "year": 1993
+ },
+ {
+  "t": "2026-10-28T00:11:44.654Z",
+  "type": "newfilm",
+  "director": "m-night-shyamalan",
+  "name": "M. Night Shyamalan",
+  "slug": "remain-2026-1",
+  "title": "Remain",
+  "year": 2026
+ },
+ {
+  "t": "2026-10-28T00:11:57.387Z",
+  "type": "newfilm",
+  "director": "luca-guadagnino",
+  "name": "Luca Guadagnino",
+  "slug": "artificial-2026",
+  "title": "Artificial",
+  "year": 2026
+ },
+ {
+  "t": "2026-10-28T00:11:57.387Z",
+  "type": "newfilm",
+  "director": "luca-guadagnino",
+  "name": "Luca Guadagnino",
+  "slug": "joie-de-vivre-2026",
+  "title": "Joie de vivre",
+  "year": 2026
+ },
+ {
+  "t": "2026-10-28T00:11:57.387Z",
+  "type": "newfilm",
+  "director": "luca-guadagnino",
+  "name": "Luca Guadagnino",
+  "slug": "we-are-windows",
+  "title": "We Are Windows",
+  "year": 2026
+ },
+ {
+  "t": "2026-10-28T00:11:58.394Z",
+  "type": "newfilm",
+  "director": "danny-boyle",
+  "name": "Danny Boyle",
+  "slug": "antarctica-2",
+  "title": "Antarctica",
+  "year": null
+ },
+ {
+  "t": "2026-10-28T00:12:10.361Z",
+  "type": "newfilm",
+  "director": "wim-wenders",
+  "name": "Wim Wenders",
+  "slug": "untitled-wim-wenders-science-fiction-film",
+  "title": "Untitled Wim Wenders Science Fiction Film",
+  "year": null
  }
 ]
