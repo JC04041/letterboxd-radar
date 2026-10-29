@@ -1482,5 +1482,19 @@
   "tmdb": 250734,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/7/5/0/5/8/175058-far-from-the-madding-crowd-0-600-0-900-crop.jpg?v=7a69cf0661",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1560297962",
+  "slug": "shanghai-express",
+  "title": "Shanghai Express",
+  "year": 1932,
+  "watchedDate": "2026-10-28",
+  "published": "Thu, 29 Oct 2026 13:59:02 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": false,
+  "tmdb": 875,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/7/7/51277-shanghai-express-0-600-0-900-crop.jpg?v=b9df3a82d5",
+  "review": ""
  }
 ]
