@@ -1524,5 +1524,19 @@
   "tmdb": 401200,
   "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/9/0/3/335903-kursk-0-600-0-900-crop.jpg?v=258a88a3a9",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1562367495",
+  "slug": "black-girl-1966",
+  "title": "Black Girl",
+  "year": 1966,
+  "watchedDate": "2026-10-30",
+  "published": "Fri, 30 Oct 2026 16:00:03 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": false,
+  "tmdb": 95597,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/7/9/0/8/0/79080-black-girl-0-600-0-900-crop.jpg?v=d3339655b6",
+  "review": ""
  }
 ]
