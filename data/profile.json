@@ -89,16 +89,16 @@
  ],
  "listsIndex": [
   {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 129,
-   "description": ""
-  },
-  {
    "slug": "favourite-from-my-top-100-filmmakers",
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
+  },
+  {
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 129,
+   "description": ""
   },
   {
    "slug": "2027-ranked",
@@ -164,7 +164,7 @@
  "top100": {
   "slug": "favourite-from-my-top-100-filmmakers",
   "title": "Favourite From My Top 100 Filmmakers",
-  "updated": "2026-10-18T15:32:13.935Z",
+  "updated": "2026-10-30T02:41:37.616Z",
   "notes": {
    "ranked": [
     {
@@ -574,8 +574,11 @@
      "names": [
       "Zahler",
       "Lubitsch",
-      "Possibly Soon",
       "Carol Reed",
+      "Dassin",
+      "Polanski",
+      "Possibly Soon",
+      "Greg Mottola",
       "Kenneth Lonnergan",
       "Elaine May",
       "Melville",
@@ -2114,15 +2117,33 @@
       ]
      },
      {
+      "name": "Carol Reed",
+      "slugs": [
+       "carol-reed"
+      ]
+     },
+     {
+      "name": "Dassin",
+      "slugs": [
+       "jules-dassin"
+      ]
+     },
+     {
+      "name": "Polanski",
+      "slugs": [
+       "roman-polanski"
+      ]
+     },
+     {
       "name": "Possibly Soon",
       "slugs": [
        "peter-sohn"
       ]
      },
      {
-      "name": "Carol Reed",
+      "name": "Greg Mottola",
       "slugs": [
-       "carol-reed"
+       "greg-mottola"
       ]
      },
      {
@@ -2188,7 +2209,7 @@
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "ranked": true,
-   "updated": "2026-10-18T15:32:13.935Z",
+   "updated": "2026-10-30T02:41:37.616Z",
    "at": "2026-10-30",
    "items": [
     [
@@ -6522,5 +6543,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-30T02:23:28.390Z"
+ "lastScan": "2026-10-30T02:53:31.517Z"
 }

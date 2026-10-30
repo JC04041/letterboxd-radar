@@ -899,5 +899,26 @@
   "rewatch": false,
   "date": "2026-10-29",
   "via": "diary"
+ },
+ {
+  "t": "2026-10-30T02:53:32.671Z",
+  "type": "like",
+  "slug": "la-bola-negra",
+  "title": "La Bola Negra"
+ },
+ {
+  "t": "2026-10-30T02:53:34.134Z",
+  "type": "soon+",
+  "name": "Dassin"
+ },
+ {
+  "t": "2026-10-30T02:53:34.134Z",
+  "type": "soon+",
+  "name": "Polanski"
+ },
+ {
+  "t": "2026-10-30T02:53:34.134Z",
+  "type": "soon+",
+  "name": "Greg Mottola"
  }
 ]
