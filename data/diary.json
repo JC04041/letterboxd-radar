@@ -1510,5 +1510,19 @@
   "tmdb": 49530,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/0/8/2/16082-in-time-0-600-0-900-crop.jpg?v=48a150559c",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1562166266",
+  "slug": "kursk",
+  "title": "Kursk",
+  "year": 2018,
+  "watchedDate": "2026-10-29",
+  "published": "Fri, 30 Oct 2026 13:02:56 +1300",
+  "rewatch": false,
+  "rating": 2.5,
+  "liked": false,
+  "tmdb": 401200,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/3/3/5/9/0/3/335903-kursk-0-600-0-900-crop.jpg?v=258a88a3a9",
+  "review": ""
  }
 ]
