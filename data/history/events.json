@@ -950,5 +950,22 @@
   "type": "wl+",
   "slug": "sunrise-a-song-of-two-humans",
   "title": "Sunrise: A Song of Two Humans"
+ },
+ {
+  "t": "2026-10-30T23:59:37.435Z",
+  "type": "watch",
+  "slug": "sunrise-a-song-of-two-humans",
+  "title": "Sunrise: A Song of Two Humans",
+  "year": 1927,
+  "rating": 4,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-10-30",
+  "via": "diary"
+ },
+ {
+  "t": "2026-10-30T23:59:38.385Z",
+  "type": "wl-",
+  "slug": "sunrise-a-song-of-two-humans"
  }
 ]

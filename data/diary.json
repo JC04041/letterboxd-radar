@@ -1552,5 +1552,19 @@
   "tmdb": 946,
   "poster": "https://a.ltrbxd.com/resized/film-poster/6/0/3/0/0/60300-letter-from-an-unknown-woman-0-600-0-900-crop.jpg?v=4b063d658f",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1564287665",
+  "slug": "sunrise-a-song-of-two-humans",
+  "title": "Sunrise: A Song of Two Humans",
+  "year": 1927,
+  "watchedDate": "2026-10-30",
+  "published": "Sat, 31 Oct 2026 09:52:25 +1300",
+  "rewatch": false,
+  "rating": 4,
+  "liked": true,
+  "tmdb": 631,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/3/51493-sunrise-a-song-of-two-humans-0-600-0-900-crop.jpg?v=0cf76799f9",
+  "review": ""
  }
 ]
