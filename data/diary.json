@@ -1566,5 +1566,19 @@
   "tmdb": 631,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/4/9/3/51493-sunrise-a-song-of-two-humans-0-600-0-900-crop.jpg?v=0cf76799f9",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1565815556",
+  "slug": "onibaba",
+  "title": "Onibaba",
+  "year": 1964,
+  "watchedDate": "2026-10-31",
+  "published": "Sun, 1 Nov 2026 08:53:29 +1300",
+  "rewatch": false,
+  "rating": 4,
+  "liked": true,
+  "tmdb": 3763,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/3x/qu/ti/2g/nITg6iRWo3CVWJEnhV4AiD3ukfx-0-600-0-900-crop.jpg?v=d394e337a5",
+  "review": ""
  }
 ]
