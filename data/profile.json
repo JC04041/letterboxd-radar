@@ -90,16 +90,16 @@
  ],
  "listsIndex": [
   {
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 130,
+   "description": ""
+  },
+  {
    "slug": "favourite-from-my-top-100-filmmakers",
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
-  },
-  {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 129,
-   "description": ""
   },
   {
    "slug": "2027-ranked",
@@ -2617,9 +2617,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 129,
+   "count": 130,
    "ranked": true,
-   "updated": "2026-10-25T18:06:39.980Z",
+   "updated": "2026-10-31T18:18:27.508Z",
    "at": "2026-10-31",
    "items": [
     [
@@ -2647,11 +2647,15 @@
      4
     ],
     [
-     "resident-evil-2026",
+     "love-of-your-life",
      4
     ],
     [
-     "love-of-your-life",
+     "la-bola-negra",
+     4
+    ],
+    [
+     "resident-evil-2026",
      4
     ],
     [
@@ -6544,5 +6548,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-10-31T18:03:32.903Z"
+ "lastScan": "2026-10-31T18:33:34.547Z"
 }
