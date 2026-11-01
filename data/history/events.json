@@ -996,5 +996,17 @@
   "type": "wl+",
   "slug": "edge-of-the-city",
   "title": "Edge of the City"
+ },
+ {
+  "t": "2026-11-01T20:09:23.143Z",
+  "type": "watch",
+  "slug": "boyz-n-the-hood",
+  "title": "Boyz n the Hood",
+  "year": 1991,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-01",
+  "via": "diary"
  }
 ]
