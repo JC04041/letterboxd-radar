@@ -1020,5 +1020,17 @@
   "rewatch": false,
   "date": "2026-11-01",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-02T15:43:13.708Z",
+  "type": "watch",
+  "slug": "the-sun-never-sets-2026",
+  "title": "The Sun Never Sets",
+  "year": 2026,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-02",
+  "via": "diary"
  }
 ]

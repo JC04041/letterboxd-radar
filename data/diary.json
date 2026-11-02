@@ -1608,5 +1608,19 @@
   "tmdb": 16295,
   "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/6/7/3/41673-higher-learning-0-600-0-900-crop.jpg?v=9f8ab86e06",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1569094291",
+  "slug": "the-sun-never-sets-2026",
+  "title": "The Sun Never Sets",
+  "year": 2026,
+  "watchedDate": "2026-11-02",
+  "published": "Tue, 3 Nov 2026 04:26:04 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 1490214,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/1z/hs/sy/8t/sun1-0-600-0-900-crop.jpg?v=76c557f888",
+  "review": ""
  }
 ]
