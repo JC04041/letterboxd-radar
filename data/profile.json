@@ -92,7 +92,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 130,
+   "count": 131,
    "description": ""
   },
   {
@@ -2617,9 +2617,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 130,
+   "count": 131,
    "ranked": true,
-   "updated": "2026-10-31T18:18:27.508Z",
+   "updated": "2026-11-02T17:31:25.734Z",
    "at": "2026-11-02",
    "items": [
     [
@@ -3141,6 +3141,10 @@
     [
      "mercy-2026",
      1
+    ],
+    [
+     "the-sun-never-sets-2026",
+     0
     ]
    ]
   },
@@ -6548,5 +6552,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-02T17:13:21.152Z"
+ "lastScan": "2026-11-02T17:43:24.496Z"
 }
