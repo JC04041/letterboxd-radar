@@ -1,26 +1,5 @@
 [
  {
-  "t": "2026-10-28T20:16:12.350Z",
-  "mode": "auto",
-  "jobs": {},
-  "blocked": 0,
-  "notes": [
-   "fatal: HTTP 503 for https://letterboxd.com/josephcurrid/rss/"
-  ],
-  "full": false,
-  "seconds": 124,
-  "http": {
-   "requests": 5,
-   "ok": 0,
-   "notFound": 0,
-   "challenged": 0,
-   "errors": 3,
-   "bytes": 13980
-  },
-  "found": 1985,
-  "total": 2151
- },
- {
   "t": "2026-10-28T20:46:15.586Z",
   "mode": "auto",
   "jobs": {},
@@ -6067,6 +6046,26 @@
  },
  {
   "t": "2026-11-03T18:48:15.885Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 3,
+  "http": {
+   "requests": 5,
+   "ok": 5,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 872712
+  },
+  "found": 1998,
+  "total": 2164
+ },
+ {
+  "t": "2026-11-03T18:49:26.529Z",
   "mode": "auto",
   "jobs": {},
   "blocked": 0,
