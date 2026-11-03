@@ -92,7 +92,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 132,
+   "count": 133,
    "description": ""
   },
   {
@@ -2617,9 +2617,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 132,
+   "count": 133,
    "ranked": true,
-   "updated": "2026-11-03T00:32:54.172Z",
+   "updated": "2026-11-03T19:49:28.093Z",
    "at": "2026-11-03",
    "items": [
     [
@@ -2647,11 +2647,19 @@
      4
     ],
     [
+     "sense-and-sensibility-2026",
+     4
+    ],
+    [
      "love-of-your-life",
      4
     ],
     [
      "la-bola-negra",
+     4
+    ],
+    [
+     "the-sun-never-sets-2026",
      4
     ],
     [
@@ -3143,12 +3151,8 @@
      1
     ],
     [
-     "the-sun-never-sets-2026",
-     4
-    ],
-    [
-     "sense-and-sensibility-2026",
-     4
+     "the-history-of-concrete",
+     0
     ]
    ]
   },
@@ -5527,7 +5531,7 @@
    ]
   }
  },
- "lastFull": "2026-11-03T13:47:21.707Z",
+ "lastFull": "2026-11-03T19:49:52.576Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6556,5 +6560,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-03T19:19:40.992Z"
+ "lastScan": "2026-11-03T19:49:52.576Z"
 }
