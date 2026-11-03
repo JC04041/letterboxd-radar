@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2162,
+ "watchedTotal": 2163,
  "recent": [
   "clayface",
   "animals-2026",
@@ -7,6 +7,7 @@
   "heart-of-the-beast-2026",
   "the-cycle-2026-2",
   "resident-evil-2026",
+  "sense-and-sensibility-2026",
   "love-of-your-life",
   "company-2026",
   "bunker-2026-1",
@@ -71,8 +72,7 @@
   "reminders-of-him",
   "project-hail-mary",
   "peaky-blinders-the-immortal-man",
-  "the-bride-2026",
-  "scream-7"
+  "the-bride-2026"
  ],
  "watchlist": [
   "edge-of-the-city",
@@ -92,7 +92,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 131,
+   "count": 132,
    "description": ""
   },
   {
@@ -2617,10 +2617,10 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 131,
+   "count": 132,
    "ranked": true,
-   "updated": "2026-11-02T17:31:25.734Z",
-   "at": "2026-11-02",
+   "updated": "2026-11-03T00:32:54.172Z",
+   "at": "2026-11-03",
    "items": [
     [
      "tuner",
@@ -3144,7 +3144,11 @@
     ],
     [
      "the-sun-never-sets-2026",
-     0
+     4
+    ],
+    [
+     "sense-and-sensibility-2026",
+     4
     ]
    ]
   },
@@ -6552,5 +6556,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-03T00:14:46.899Z"
+ "lastScan": "2026-11-03T00:44:48.561Z"
 }
