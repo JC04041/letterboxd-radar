@@ -1080,5 +1080,17 @@
   "type": "wl+",
   "slug": "power-ballad",
   "title": "Power Ballad"
+ },
+ {
+  "t": "2026-11-04T15:15:53.679Z",
+  "type": "watch",
+  "slug": "confess-fletch",
+  "title": "Confess, Fletch",
+  "year": 2022,
+  "rating": 2.5,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-11-04",
+  "via": "diary"
  }
 ]
