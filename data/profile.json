@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2165,
+ "watchedTotal": 2166,
  "recent": [
   "clayface",
   "animals-2026",
@@ -9,6 +9,7 @@
   "resident-evil-2026",
   "sense-and-sensibility-2026",
   "love-of-your-life",
+  "your-mother-your-mother-your-mother",
   "company-2026",
   "bunker-2026-1",
   "the-debut-2026",
@@ -71,12 +72,11 @@
   "i-love-boosters",
   "reminders-of-him",
   "project-hail-mary",
-  "peaky-blinders-the-immortal-man",
-  "the-bride-2026"
+  "peaky-blinders-the-immortal-man"
  ],
  "watchlist": [
+  "night-on-earth",
   "power-ballad",
-  "your-mother-your-mother-your-mother",
   "edge-of-the-city",
   "sixteen-candles",
   "belle-de-jour",
@@ -94,7 +94,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 133,
+   "count": 134,
    "description": ""
   },
   {
@@ -2619,10 +2619,10 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 133,
+   "count": 134,
    "ranked": true,
-   "updated": "2026-11-03T20:50:00.008Z",
-   "at": "2026-11-04",
+   "updated": "2026-11-05T01:16:32.519Z",
+   "at": "2026-11-05",
    "items": [
     [
      "tuner",
@@ -3155,6 +3155,10 @@
     [
      "mercy-2026",
      1
+    ],
+    [
+     "your-mother-your-mother-your-mother",
+     0
     ]
    ]
   },
@@ -6562,5 +6566,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-05T00:47:41.208Z"
+ "lastScan": "2026-11-05T01:17:44.820Z"
 }
