@@ -1115,5 +1115,17 @@
   "t": "2026-11-05T01:17:45.954Z",
   "type": "wl-",
   "slug": "your-mother-your-mother-your-mother"
+ },
+ {
+  "t": "2026-11-05T02:18:37.022Z",
+  "type": "watch",
+  "slug": "good-morning-vietnam",
+  "title": "Good Morning, Vietnam",
+  "year": 1987,
+  "rating": 2,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-06-25",
+  "via": "diary"
  }
 ]
