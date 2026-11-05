@@ -92,6 +92,12 @@
  ],
  "listsIndex": [
   {
+   "slug": "2023-ranked",
+   "title": "2023 Ranked",
+   "count": 82,
+   "description": ""
+  },
+  {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
    "count": 134,
@@ -156,12 +162,6 @@
    "title": "Top 100 16/01/2026",
    "count": 100,
    "description": "Rough Ranking - Vibes Not Star RatingsDirectors With 3+ Films: Paul Thomas Anderson - 5 Martin Scorsese - 4 David Fincher - 4 Quentin Tarantino - 3 Christopher Nolan - 3 Darren Aronofsky - 3"
-  },
-  {
-   "slug": "favourite-first-time-watches-of-2025",
-   "title": "Favourite First Time Watches Of 2025",
-   "count": 20,
-   "description": ""
   }
  ],
  "top100": {
@@ -5447,97 +5447,345 @@
     ]
    ]
   },
-  "favourite-first-time-watches-of-2025": {
-   "title": "Favourite First Time Watches Of 2025",
-   "count": 20,
-   "ranked": false,
-   "updated": "2026-01-01T04:13:31.910Z",
+  "2023-ranked": {
+   "title": "2023 Ranked",
+   "count": 82,
+   "ranked": true,
+   "updated": "2026-11-05T20:06:06.727Z",
    "at": "2026-11-05",
    "items": [
     [
-     "heaven-knows-what",
+     "oppenheimer-2023",
      5
     ],
     [
-     "magnolia",
+     "spider-man-across-the-spider-verse",
      5
     ],
     [
-     "gattaca",
+     "the-iron-claw-2023",
      5
     ],
     [
-     "chungking-express",
-     5
-    ],
-    [
-     "bay-of-angels",
-     5
-    ],
-    [
-     "one-battle-after-another",
-     5
-    ],
-    [
-     "clerks",
-     5
-    ],
-    [
-     "possessor",
+     "killers-of-the-flower-moon",
      4.5
     ],
     [
-     "election",
+     "the-killer-2023",
      4.5
     ],
     [
-     "barefoot-in-the-park",
+     "the-hunger-games-the-ballad-of-songbirds-snakes",
      4.5
     ],
     [
-     "cloverfield",
+     "godzilla-minus-one",
      4.5
     ],
     [
-     "sugar-2008",
+     "ferrari-2023",
      4.5
     ],
     [
-     "the-lady-eve",
+     "the-holdovers",
      4.5
     ],
     [
-     "hair",
+     "may-december",
      4.5
     ],
     [
-     "nickel-boys",
+     "anatomy-of-a-fall",
      4.5
     ],
     [
-     "klute",
+     "sanctuary-2022",
      4.5
     ],
     [
-     "train-dreams",
+     "guardians-of-the-galaxy-vol-3",
      4.5
     ],
     [
-     "late-shift-2025",
-     4.5
+     "priscilla",
+     4
     ],
     [
-     "bill-teds-excellent-adventure",
-     4.5
+     "poor-things-2023",
+     4
     ],
     [
-     "battle-royale",
-     4.5
+     "american-fiction",
+     4
+    ],
+    [
+     "napoleon-2023",
+     4
+    ],
+    [
+     "fair-play-2023",
+     4
+    ],
+    [
+     "air-2023",
+     4
+    ],
+    [
+     "dream-scenario",
+     4
+    ],
+    [
+     "blackberry-2023",
+     4
+    ],
+    [
+     "scream-vi",
+     4
+    ],
+    [
+     "mission-impossible-dead-reckoning",
+     4
+    ],
+    [
+     "evil-dead-rise",
+     4
+    ],
+    [
+     "john-wick-chapter-4",
+     4
+    ],
+    [
+     "beau-is-afraid",
+     4
+    ],
+    [
+     "maestro-2023",
+     3.5
+    ],
+    [
+     "theater-camp-2023",
+     3.5
+    ],
+    [
+     "scrapper-2023",
+     3.5
+    ],
+    [
+     "are-you-there-god-its-me-margaret",
+     3.5
+    ],
+    [
+     "master-gardener",
+     3.5
+    ],
+    [
+     "how-to-blow-up-a-pipeline",
+     3.5
+    ],
+    [
+     "rye-lane",
+     3.5
+    ],
+    [
+     "barbie",
+     3.5
+    ],
+    [
+     "saw-x",
+     3.5
+    ],
+    [
+     "reality-2023",
+     3.5
+    ],
+    [
+     "cocaine-bear",
+     3.5
+    ],
+    [
+     "nyad",
+     3
+    ],
+    [
+     "wonka",
+     3
+    ],
+    [
+     "bottoms",
+     3
+    ],
+    [
+     "dungeons-dragons-honor-among-thieves",
+     3
+    ],
+    [
+     "la-chimera",
+     3
+    ],
+    [
+     "the-burial",
+     3
+    ],
+    [
+     "boston-strangler",
+     3
+    ],
+    [
+     "guy-ritchies-the-covenant",
+     3
+    ],
+    [
+     "knock-at-the-cabin",
+     3
+    ],
+    [
+     "sharper",
+     3
+    ],
+    [
+     "a-man-called-otto",
+     3
+    ],
+    [
+     "elemental-2023",
+     3
+    ],
+    [
+     "asteroid-city",
+     3
+    ],
+    [
+     "you-hurt-my-feelings-2023",
+     3
+    ],
+    [
+     "the-popes-exorcist",
+     2.5
+    ],
+    [
+     "a-haunting-in-venice",
+     2.5
+    ],
+    [
+     "talk-to-me-2022",
+     2.5
+    ],
+    [
+     "saltburn",
+     2.5
+    ],
+    [
+     "extraction-2",
+     2.5
+    ],
+    [
+     "65",
+     2.5
+    ],
+    [
+     "totally-killer",
+     2.5
+    ],
+    [
+     "a-good-person-2023",
+     2.5
+    ],
+    [
+     "shazam-fury-of-the-gods",
+     2
+    ],
+    [
+     "leave-the-world-behind-2023",
+     2
+    ],
+    [
+     "m3gan",
+     2
+    ],
+    [
+     "pain-hustlers",
+     2
+    ],
+    [
+     "they-cloned-tyrone",
+     2
+    ],
+    [
+     "no-one-will-save-you",
+     2
+    ],
+    [
+     "the-flash",
+     2
+    ],
+    [
+     "good-grief-2023-1",
+     1.5
+    ],
+    [
+     "the-marsh-kings-daughter",
+     1.5
+    ],
+    [
+     "you-people-2023",
+     1.5
+    ],
+    [
+     "she-came-to-me",
+     1.5
+    ],
+    [
+     "the-boys-in-the-boat",
+     1.5
+    ],
+    [
+     "the-super-mario-bros-movie",
+     1.5
+    ],
+    [
+     "haunted-mansion-2023",
+     1.5
+    ],
+    [
+     "indiana-jones-and-the-dial-of-destiny",
+     1.5
+    ],
+    [
+     "renfield",
+     1.5
+    ],
+    [
+     "the-boogeyman",
+     1.5
+    ],
+    [
+     "next-goal-wins-2023",
+     1
+    ],
+    [
+     "flamin-hot",
+     1
+    ],
+    [
+     "ant-man-and-the-wasp-quantumania",
+     1
+    ],
+    [
+     "rebel-moon-part-one-a-child-of-fire",
+     1
+    ],
+    [
+     "heart-of-stone-2023",
+     1
+    ],
+    [
+     "ghosted-2023",
+     0.5
     ]
    ]
   }
  },
- "lastFull": "2026-11-05T14:20:25.960Z",
+ "lastFull": "2026-11-05T20:21:40.295Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6566,5 +6814,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-05T19:51:38.987Z"
+ "lastScan": "2026-11-05T20:21:40.295Z"
 }
