@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2168,
+ "watchedTotal": 2169,
  "recent": [
   "clayface",
   "animals-2026",
@@ -2213,7 +2213,7 @@
    "count": 100,
    "ranked": true,
    "updated": "2026-10-30T02:41:37.616Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "goodfellas",
@@ -2622,7 +2622,7 @@
    "count": 134,
    "ranked": true,
    "updated": "2026-11-05T01:16:32.519Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "tuner",
@@ -3167,7 +3167,7 @@
    "count": 1,
    "ranked": true,
    "updated": "2026-09-09T22:21:19.759Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "company-2026",
@@ -3180,7 +3180,7 @@
    "count": 23,
    "ranked": false,
    "updated": "2026-08-12T15:22:36.085Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "collateral",
@@ -3281,7 +3281,7 @@
    "count": 13,
    "ranked": true,
    "updated": "2026-07-22T12:30:58.399Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "inception",
@@ -3342,7 +3342,7 @@
    "count": 31,
    "ranked": true,
    "updated": "2026-06-10T22:04:23.746Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "the-fabelmans",
@@ -3475,7 +3475,7 @@
    "count": 15,
    "ranked": true,
    "updated": "2026-05-08T20:32:58.966Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "dazed-and-confused",
@@ -3544,7 +3544,7 @@
    "count": 151,
    "ranked": false,
    "updated": "2026-03-31T23:49:56.952Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "rap-world",
@@ -4157,7 +4157,7 @@
    "count": 167,
    "ranked": true,
    "updated": "2026-03-28T17:03:37.534Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "one-battle-after-another",
@@ -4834,7 +4834,7 @@
    "count": 50,
    "ranked": true,
    "updated": "2026-03-16T02:48:50.298Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "one-flew-over-the-cuckoos-nest",
@@ -5043,7 +5043,7 @@
    "count": 100,
    "ranked": true,
    "updated": "2026-01-22T23:50:37.899Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "the-assassination-of-jesse-james-by-the-coward-robert-ford",
@@ -5452,7 +5452,7 @@
    "count": 82,
    "ranked": true,
    "updated": "2026-11-05T20:06:06.727Z",
-   "at": "2026-11-05",
+   "at": "2026-11-06",
    "items": [
     [
      "oppenheimer-2023",
@@ -5785,7 +5785,7 @@
    ]
   }
  },
- "lastFull": "2026-11-05T20:21:40.295Z",
+ "lastFull": "2026-11-06T03:19:54.601Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6814,5 +6814,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-05T22:52:47.856Z"
+ "lastScan": "2026-11-06T03:19:54.601Z"
 }
