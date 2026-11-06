@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2169,
+ "watchedTotal": 2170,
  "recent": [
   "clayface",
   "animals-2026",
@@ -12,6 +12,7 @@
   "your-mother-your-mother-your-mother",
   "company-2026",
   "bunker-2026-1",
+  "possible-love",
   "the-debut-2026",
   "primetime-2026",
   "a-place-to-heal",
@@ -71,8 +72,7 @@
   "pretty-lethal",
   "i-love-boosters",
   "reminders-of-him",
-  "project-hail-mary",
-  "peaky-blinders-the-immortal-man"
+  "project-hail-mary"
  ],
  "watchlist": [
   "night-on-earth",
@@ -92,15 +92,15 @@
  ],
  "listsIndex": [
   {
-   "slug": "2023-ranked",
-   "title": "2023 Ranked",
-   "count": 82,
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 135,
    "description": ""
   },
   {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 134,
+   "slug": "2023-ranked",
+   "title": "2023 Ranked",
+   "count": 82,
    "description": ""
   },
   {
@@ -2619,9 +2619,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 134,
+   "count": 135,
    "ranked": true,
-   "updated": "2026-11-05T01:16:32.519Z",
+   "updated": "2026-11-06T21:21:29.887Z",
    "at": "2026-11-06",
    "items": [
     [
@@ -3158,6 +3158,10 @@
     ],
     [
      "your-mother-your-mother-your-mother",
+     0
+    ],
+    [
+     "possible-love",
      0
     ]
    ]
@@ -5785,7 +5789,7 @@
    ]
   }
  },
- "lastFull": "2026-11-06T15:21:54.107Z",
+ "lastFull": "2026-11-06T21:23:09.554Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6814,5 +6818,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-06T20:53:06.527Z"
+ "lastScan": "2026-11-06T21:23:09.554Z"
 }
