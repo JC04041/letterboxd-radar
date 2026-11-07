@@ -74,7 +74,22 @@
   "reminders-of-him",
   "project-hail-mary"
  ],
- "watchlist": [],
+ "watchlist": [
+  "night-on-earth",
+  "power-ballad",
+  "edge-of-the-city",
+  "sixteen-candles",
+  "belle-de-jour",
+  "and-god-created-woman",
+  "the-scout-2025",
+  "sunburn-2026-3",
+  "lilith",
+  "chronovisor",
+  "everytime",
+  "buffet-infinity",
+  "the-fence-2025-1",
+  "rose-of-nevada"
+ ],
  "listsIndex": [
   {
    "slug": "2026-ranked",
@@ -6803,5 +6818,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-07T13:26:32.077Z"
+ "lastScan": "2026-11-07T13:56:35.538Z"
 }
