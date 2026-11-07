@@ -1748,5 +1748,19 @@
   "tmdb": 1483525,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/3/6/0/3/7/2/1360372-possible-love-0-600-0-900-crop.jpg?v=74d3cd22dc",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1576601420",
+  "slug": "godzilla-minus-zero",
+  "title": "Godzilla Minus Zero",
+  "year": 2026,
+  "watchedDate": "2026-11-07",
+  "published": "Sun, 8 Nov 2026 11:44:04 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 1381071,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/6/8/4/1266684-godzilla-minus-zero-0-600-0-900-crop.jpg?v=38989be61d",
+  "review": ""
  }
 ]
