@@ -94,7 +94,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 135,
+   "count": 136,
    "description": ""
   },
   {
@@ -2619,9 +2619,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 135,
+   "count": 136,
    "ranked": true,
-   "updated": "2026-11-06T21:21:29.887Z",
+   "updated": "2026-11-08T16:07:39.782Z",
    "at": "2026-11-08",
    "items": [
     [
@@ -2649,6 +2649,10 @@
      4
     ],
     [
+     "possible-love",
+     0
+    ],
+    [
      "the-history-of-concrete",
      0
     ],
@@ -2673,6 +2677,10 @@
      4
     ],
     [
+     "godzilla-minus-zero",
+     0
+    ],
+    [
      "the-odyssey-2026",
      4
     ],
@@ -2689,11 +2697,11 @@
      3.5
     ],
     [
-     "wild-horse-nine",
+     "obsession-2025",
      4
     ],
     [
-     "obsession-2025",
+     "a-place-to-heal",
      4
     ],
     [
@@ -2705,7 +2713,7 @@
      4
     ],
     [
-     "a-place-to-heal",
+     "wild-horse-nine",
      4
     ],
     [
@@ -2859,6 +2867,10 @@
     [
      "i-want-your-sex",
      3
+    ],
+    [
+     "your-mother-your-mother-your-mother",
+     0
     ],
     [
      "batman-knightfall-part-1-knightfall",
@@ -3155,14 +3167,6 @@
     [
      "mercy-2026",
      1
-    ],
-    [
-     "your-mother-your-mother-your-mother",
-     0
-    ],
-    [
-     "possible-love",
-     0
     ]
    ]
   },
@@ -6818,5 +6822,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-08T16:02:00.063Z"
+ "lastScan": "2026-11-08T16:32:03.897Z"
 }
