@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2172,
+ "watchedTotal": 2173,
  "recent": [
   "clayface",
   "animals-2026",
@@ -94,7 +94,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 136,
+   "count": 137,
    "description": ""
   },
   {
@@ -2619,9 +2619,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 136,
+   "count": 137,
    "ranked": true,
-   "updated": "2026-11-08T16:07:39.782Z",
+   "updated": "2026-11-09T18:50:32.792Z",
    "at": "2026-11-09",
    "items": [
     [
@@ -3167,6 +3167,10 @@
     [
      "mercy-2026",
      1
+    ],
+    [
+     "queen-at-sea",
+     0
     ]
    ]
   },
@@ -6822,5 +6826,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-09T18:23:11.684Z"
+ "lastScan": "2026-11-09T21:36:07.013Z"
 }

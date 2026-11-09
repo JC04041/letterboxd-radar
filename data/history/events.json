@@ -1352,5 +1352,17 @@
   "t": "2026-11-09T03:21:11.583Z",
   "type": "wl-",
   "slug": "edge-of-the-city"
+ },
+ {
+  "t": "2026-11-09T21:36:07.559Z",
+  "type": "watch",
+  "slug": "queen-at-sea",
+  "title": "Queen at Sea",
+  "year": 2026,
+  "rating": null,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-11-09",
+  "via": "diary"
  }
 ]

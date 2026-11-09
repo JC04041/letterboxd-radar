@@ -1776,5 +1776,19 @@
   "tmdb": 35129,
   "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/4/28734-edge-of-the-city-0-600-0-900-crop.jpg?v=36f342b431",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1579668935",
+  "slug": "queen-at-sea",
+  "title": "Queen at Sea",
+  "year": 2026,
+  "watchedDate": "2026-11-09",
+  "published": "Tue, 10 Nov 2026 07:50:27 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": false,
+  "tmdb": 1021848,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/1/0/8/0/921080-queen-at-sea-0-600-0-900-crop.jpg?v=0cd1782b5a",
+  "review": ""
  }
 ]
