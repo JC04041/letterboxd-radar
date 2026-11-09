@@ -1335,5 +1335,22 @@
   "type": "wl+",
   "slug": "marrow-2026",
   "title": "Marrow"
+ },
+ {
+  "t": "2026-11-09T03:21:10.629Z",
+  "type": "watch",
+  "slug": "edge-of-the-city",
+  "title": "Edge of the City",
+  "year": 1957,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-09",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-09T03:21:11.583Z",
+  "type": "wl-",
+  "slug": "edge-of-the-city"
  }
 ]

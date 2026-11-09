@@ -1762,5 +1762,19 @@
   "tmdb": 1381071,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/6/6/8/4/1266684-godzilla-minus-zero-0-600-0-900-crop.jpg?v=38989be61d",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1578867805",
+  "slug": "edge-of-the-city",
+  "title": "Edge of the City",
+  "year": 1957,
+  "watchedDate": "2026-11-09",
+  "published": "Mon, 9 Nov 2026 16:17:36 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 35129,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/2/8/7/3/4/28734-edge-of-the-city-0-600-0-900-crop.jpg?v=36f342b431",
+  "review": ""
  }
 ]
