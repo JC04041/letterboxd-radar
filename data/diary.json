@@ -1790,5 +1790,19 @@
   "tmdb": 1021848,
   "poster": "https://a.ltrbxd.com/resized/film-poster/9/2/1/0/8/0/921080-queen-at-sea-0-600-0-900-crop.jpg?v=0cd1782b5a",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1580885733",
+  "slug": "power-ballad",
+  "title": "Power Ballad",
+  "year": 2026,
+  "watchedDate": "2026-11-10",
+  "published": "Wed, 11 Nov 2026 05:40:59 +1300",
+  "rewatch": false,
+  "rating": 2.5,
+  "liked": false,
+  "tmdb": 1284016,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/6/3/4/1167634-power-ballad-0-600-0-900-crop.jpg?v=31a4723ff8",
+  "review": ""
  }
 ]

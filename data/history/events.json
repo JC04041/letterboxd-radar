@@ -1364,5 +1364,22 @@
   "rewatch": false,
   "date": "2026-11-09",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-10T17:09:19.219Z",
+  "type": "watch",
+  "slug": "power-ballad",
+  "title": "Power Ballad",
+  "year": 2026,
+  "rating": 2.5,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-11-10",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-10T17:09:20.224Z",
+  "type": "wl-",
+  "slug": "power-ballad"
  }
 ]
