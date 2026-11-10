@@ -1818,5 +1818,19 @@
   "tmdb": 1381221,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/7/0/1/0/1267010-misty-green-0-600-0-900-crop.jpg?v=373ce51408",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1581383595",
+  "slug": "the-gunfighter",
+  "title": "The Gunfighter",
+  "year": 1950,
+  "watchedDate": "2026-11-10",
+  "published": "Wed, 11 Nov 2026 12:20:02 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": true,
+  "tmdb": 17409,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/4/1/0/2/2/41022-the-gunfighter-0-600-0-900-crop.jpg?v=218bfb81fc",
+  "review": ""
  }
 ]

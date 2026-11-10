@@ -1393,5 +1393,17 @@
   "rewatch": false,
   "date": "2026-11-10",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-10T23:40:48.801Z",
+  "type": "watch",
+  "slug": "the-gunfighter",
+  "title": "The Gunfighter",
+  "year": 1950,
+  "rating": 3.5,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-10",
+  "via": "diary"
  }
 ]
