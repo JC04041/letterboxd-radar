@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2174,
+ "watchedTotal": 2175,
  "recent": [
   "clayface",
   "animals-2026",
@@ -10,6 +10,7 @@
   "resident-evil-2026",
   "sense-and-sensibility-2026",
   "love-of-your-life",
+  "misty-green",
   "your-mother-your-mother-your-mother",
   "company-2026",
   "bunker-2026-1",
@@ -71,8 +72,7 @@
   "ready-or-not-2-here-i-come",
   "pizza-movie-2026",
   "pretty-lethal",
-  "i-love-boosters",
-  "reminders-of-him"
+  "i-love-boosters"
  ],
  "watchlist": [
   "marrow-2026",
@@ -93,7 +93,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 138,
+   "count": 139,
    "description": ""
   },
   {
@@ -2618,9 +2618,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 138,
+   "count": 139,
    "ranked": true,
-   "updated": "2026-11-10T16:57:19.427Z",
+   "updated": "2026-11-10T20:38:03.438Z",
    "at": "2026-11-10",
    "items": [
     [
@@ -3173,6 +3173,10 @@
     ],
     [
      "power-ballad",
+     2.5
+    ],
+    [
+     "misty-green",
      2.5
     ]
    ]
@@ -6829,5 +6833,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-10T20:09:33.644Z"
+ "lastScan": "2026-11-10T20:39:37.761Z"
 }

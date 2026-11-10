@@ -1804,5 +1804,19 @@
   "tmdb": 1284016,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/6/7/6/3/4/1167634-power-ballad-0-600-0-900-crop.jpg?v=31a4723ff8",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1581145345",
+  "slug": "misty-green",
+  "title": "Misty Green",
+  "year": 2026,
+  "watchedDate": "2026-11-10",
+  "published": "Wed, 11 Nov 2026 09:37:47 +1300",
+  "rewatch": false,
+  "rating": 2.5,
+  "liked": false,
+  "tmdb": 1381221,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/2/6/7/0/1/0/1267010-misty-green-0-600-0-900-crop.jpg?v=373ce51408",
+  "review": ""
  }
 ]
