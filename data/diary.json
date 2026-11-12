@@ -1860,5 +1860,19 @@
   "tmdb": 17645,
   "poster": "https://a.ltrbxd.com/resized/film-poster/4/0/8/6/8/40868-leave-her-to-heaven-0-600-0-900-crop.jpg?v=57d033e9c4",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1583151063",
+  "slug": "stranger-on-horseback",
+  "title": "Stranger on Horseback",
+  "year": 1955,
+  "watchedDate": "2026-11-12",
+  "published": "Thu, 12 Nov 2026 18:07:50 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 109376,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/8/7/8/0/5/87805-stranger-on-horseback-0-600-0-900-crop.jpg?v=f24700688b",
+  "review": ""
  }
 ]
