@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2179,
+ "watchedTotal": 2180,
  "recent": [
   "clayface",
   "animals-2026",
@@ -45,6 +45,7 @@
   "fjord-2026",
   "her-private-hell-2026",
   "masters-of-the-universe-2026",
+  "hope-2026",
   "propeller-one-way-night-coach",
   "the-mandalorian-and-grogu",
   "teenage-sex-and-death-at-camp-miasma",
@@ -71,8 +72,7 @@
   "mike-nick-nick-alice",
   "the-sun-never-sets-2026",
   "ready-or-not-2-here-i-come",
-  "pizza-movie-2026",
-  "pretty-lethal"
+  "pizza-movie-2026"
  ],
  "watchlist": [
   "the-floaters",
@@ -94,7 +94,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 139,
+   "count": 140,
    "description": ""
   },
   {
@@ -2619,9 +2619,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 139,
+   "count": 140,
    "ranked": true,
-   "updated": "2026-11-10T20:38:03.438Z",
+   "updated": "2026-11-12T21:16:01.013Z",
    "at": "2026-11-12",
    "items": [
     [
@@ -3179,6 +3179,10 @@
     [
      "misty-green",
      2.5
+    ],
+    [
+     "hope-2026",
+     2
     ]
    ]
   },
@@ -6834,5 +6838,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-12T21:00:58.037Z"
+ "lastScan": "2026-11-12T21:31:01.320Z"
 }
