@@ -1,26 +1,5 @@
 [
  {
-  "t": "2026-11-07T12:56:29.200Z",
-  "mode": "auto",
-  "jobs": {},
-  "blocked": 0,
-  "notes": [
-   "fatal: The operation was aborted due to timeout"
-  ],
-  "full": false,
-  "seconds": 241,
-  "http": {
-   "requests": 5,
-   "ok": 0,
-   "notFound": 0,
-   "challenged": 0,
-   "errors": 5,
-   "bytes": 0
-  },
-  "found": 2004,
-  "total": 2170
- },
- {
   "t": "2026-11-07T13:26:32.077Z",
   "mode": "auto",
   "jobs": {},
@@ -6052,6 +6031,26 @@
  },
  {
   "t": "2026-11-13T13:33:54.901Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 3,
+  "http": {
+   "requests": 5,
+   "ok": 5,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 900662
+  },
+  "found": 2016,
+  "total": 2181
+ },
+ {
+  "t": "2026-11-13T14:03:58.470Z",
   "mode": "auto",
   "jobs": {},
   "blocked": 0,
