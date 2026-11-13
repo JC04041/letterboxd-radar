@@ -94,7 +94,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 140,
+   "count": 141,
    "description": ""
   },
   {
@@ -2619,10 +2619,10 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 140,
+   "count": 141,
    "ranked": true,
-   "updated": "2026-11-12T21:16:01.013Z",
-   "at": "2026-11-12",
+   "updated": "2026-11-13T00:51:07.643Z",
+   "at": "2026-11-13",
    "items": [
     [
      "tuner",
@@ -2643,6 +2643,10 @@
     [
      "her-private-hell-2026",
      4
+    ],
+    [
+     "queen-at-sea",
+     0
     ],
     [
      "blue-heron",
@@ -2901,6 +2905,10 @@
      3
     ],
     [
+     "misty-green",
+     2.5
+    ],
+    [
      "the-mandalorian-and-grogu",
      3
     ],
@@ -2937,6 +2945,10 @@
      3
     ],
     [
+     "is-god-is",
+     2.5
+    ],
+    [
      "normal-2025",
      3
     ],
@@ -2954,6 +2966,10 @@
     ],
     [
      "the-uprising-2026",
+     2.5
+    ],
+    [
+     "power-ballad",
      2.5
     ],
     [
@@ -3003,6 +3019,10 @@
     [
      "for-worse",
      2.5
+    ],
+    [
+     "hope-2026",
+     2
     ],
     [
      "the-death-of-robin-hood",
@@ -3167,22 +3187,6 @@
     [
      "mercy-2026",
      1
-    ],
-    [
-     "queen-at-sea",
-     0
-    ],
-    [
-     "power-ballad",
-     2.5
-    ],
-    [
-     "misty-green",
-     2.5
-    ],
-    [
-     "hope-2026",
-     2
     ]
    ]
   },
@@ -6838,5 +6842,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-13T00:31:16.594Z"
+ "lastScan": "2026-11-13T01:01:18.408Z"
 }
