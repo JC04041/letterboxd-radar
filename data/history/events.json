@@ -1459,5 +1459,17 @@
   "rewatch": false,
   "date": "2026-11-12",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-13T02:32:14.703Z",
+  "type": "watch",
+  "slug": "a-clockwork-orange",
+  "title": "A Clockwork Orange",
+  "year": 1971,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-12",
+  "via": "diary"
  }
 ]

@@ -1888,5 +1888,19 @@
   "tmdb": 1058424,
   "poster": "https://a.ltrbxd.com/resized/film-poster/9/5/4/6/6/3/954663-hope-2026-0-600-0-900-crop.jpg?v=102a8bfda2",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1584234254",
+  "slug": "a-clockwork-orange",
+  "title": "A Clockwork Orange",
+  "year": 1971,
+  "watchedDate": "2026-11-12",
+  "published": "Fri, 13 Nov 2026 15:03:43 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 185,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/6/7/51867-a-clockwork-orange-0-600-0-900-crop.jpg?v=d6d5407b50",
+  "review": ""
  }
 ]
