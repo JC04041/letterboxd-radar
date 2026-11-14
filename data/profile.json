@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2181,
+ "watchedTotal": 2182,
  "recent": [
   "clayface",
   "animals-2026",
@@ -10,6 +10,7 @@
   "resident-evil-2026",
   "sense-and-sensibility-2026",
   "love-of-your-life",
+  "i-play-rocky",
   "misty-green",
   "your-mother-your-mother-your-mother",
   "company-2026",
@@ -71,8 +72,7 @@
   "hokum",
   "mike-nick-nick-alice",
   "the-sun-never-sets-2026",
-  "ready-or-not-2-here-i-come",
-  "pizza-movie-2026"
+  "ready-or-not-2-here-i-come"
  ],
  "watchlist": [
   "the-floaters",
@@ -94,7 +94,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 141,
+   "count": 142,
    "description": ""
   },
   {
@@ -2619,10 +2619,10 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 141,
+   "count": 142,
    "ranked": true,
-   "updated": "2026-11-13T00:51:07.643Z",
-   "at": "2026-11-13",
+   "updated": "2026-11-14T00:25:26.988Z",
+   "at": "2026-11-14",
    "items": [
     [
      "tuner",
@@ -3187,6 +3187,10 @@
     [
      "mercy-2026",
      1
+    ],
+    [
+     "i-play-rocky",
+     2.5
     ]
    ]
   },
@@ -6842,5 +6846,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-14T00:06:40.938Z"
+ "lastScan": "2026-11-14T00:36:42.116Z"
 }
