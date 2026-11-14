@@ -1930,5 +1930,19 @@
   "tmdb": 339,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/3/51723-night-on-earth-0-600-0-900-crop.jpg?v=b2c1cfb249",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1586948144",
+  "slug": "barry-lyndon",
+  "title": "Barry Lyndon",
+  "year": 1975,
+  "watchedDate": "2026-11-14",
+  "published": "Sun, 15 Nov 2026 11:58:33 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 3175,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/0f/r6/bn/w7/x2JQCgLjieWOwvImeGtLmuNgsrq-0-600-0-900-crop.jpg?v=9c250ee969",
+  "review": ""
  }
 ]

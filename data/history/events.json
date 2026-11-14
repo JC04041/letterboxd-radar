@@ -1506,5 +1506,17 @@
   "type": "wl+",
   "slug": "down-by-law",
   "title": "Down by Law"
+ },
+ {
+  "t": "2026-11-14T23:12:24.107Z",
+  "type": "watch",
+  "slug": "barry-lyndon",
+  "title": "Barry Lyndon",
+  "year": 1975,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-14",
+  "via": "diary"
  }
 ]
