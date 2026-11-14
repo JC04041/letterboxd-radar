@@ -1483,5 +1483,22 @@
   "rewatch": false,
   "date": "2026-11-14",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-14T05:08:02.517Z",
+  "type": "watch",
+  "slug": "night-on-earth",
+  "title": "Night on Earth",
+  "year": 1991,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-14",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-14T05:08:03.493Z",
+  "type": "wl-",
+  "slug": "night-on-earth"
  }
 ]

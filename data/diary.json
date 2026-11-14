@@ -1916,5 +1916,19 @@
   "tmdb": 1286656,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/7/0/2/2/8/1170228-i-play-rocky-0-600-0-900-crop.jpg?v=d568ec1f72",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1585751555",
+  "slug": "night-on-earth",
+  "title": "Night on Earth",
+  "year": 1991,
+  "watchedDate": "2026-11-14",
+  "published": "Sat, 14 Nov 2026 18:05:38 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 339,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/2/3/51723-night-on-earth-0-600-0-900-crop.jpg?v=b2c1cfb249",
+  "review": ""
  }
 ]
