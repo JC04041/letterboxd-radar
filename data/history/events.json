@@ -1527,5 +1527,17 @@
   "slug": "la-veuve-joyeuse-1935",
   "title": "La Veuve joyeuse",
   "year": 1935
+ },
+ {
+  "t": "2026-11-15T04:43:39.741Z",
+  "type": "watch",
+  "slug": "coffee-and-cigarettes-2003",
+  "title": "Coffee and Cigarettes",
+  "year": 2003,
+  "rating": null,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-11-15",
+  "via": "diary"
  }
 ]
