@@ -1958,5 +1958,19 @@
   "tmdb": 883,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/6/9/51269-coffee-and-cigarettes-0-600-0-900-crop.jpg?v=b4120db348",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1588543888",
+  "slug": "down-by-law",
+  "title": "Down by Law",
+  "year": 1986,
+  "watchedDate": "2026-11-15",
+  "published": "Mon, 16 Nov 2026 10:06:34 +1300",
+  "rewatch": false,
+  "rating": 3,
+  "liked": false,
+  "tmdb": 1554,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/tp/ou/lq/a2/4IyxoUQ7BB5kcSd7gASe2dTyWu7-0-600-0-900-crop.jpg?v=932e7fe7a9",
+  "review": ""
  }
 ]

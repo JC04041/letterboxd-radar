@@ -1539,5 +1539,22 @@
   "rewatch": false,
   "date": "2026-11-15",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-15T21:16:57.093Z",
+  "type": "watch",
+  "slug": "down-by-law",
+  "title": "Down by Law",
+  "year": 1986,
+  "rating": 3,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-11-15",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-15T21:16:58.271Z",
+  "type": "wl-",
+  "slug": "down-by-law"
  }
 ]
