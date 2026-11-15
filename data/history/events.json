@@ -1518,5 +1518,14 @@
   "rewatch": false,
   "date": "2026-11-14",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-15T00:12:31.683Z",
+  "type": "newfilm",
+  "director": "ernst-lubitsch",
+  "name": "Ernst Lubitsch",
+  "slug": "la-veuve-joyeuse-1935",
+  "title": "La Veuve joyeuse",
+  "year": 1935
  }
 ]
