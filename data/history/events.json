@@ -1556,5 +1556,17 @@
   "t": "2026-11-15T21:16:58.271Z",
   "type": "wl-",
   "slug": "down-by-law"
+ },
+ {
+  "t": "2026-11-16T04:19:41.585Z",
+  "type": "watch",
+  "slug": "stranger-than-paradise",
+  "title": "Stranger Than Paradise",
+  "year": 1984,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-16",
+  "via": "diary"
  }
 ]
