@@ -92,7 +92,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 143,
+   "count": 144,
    "description": ""
   },
   {
@@ -2617,9 +2617,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 143,
+   "count": 144,
    "ranked": true,
-   "updated": "2026-11-16T14:03:56.014Z",
+   "updated": "2026-11-16T21:49:44.594Z",
    "at": "2026-11-16",
    "items": [
     [
@@ -3192,6 +3192,10 @@
     ],
     [
      "being-heumann",
+     0
+    ],
+    [
+     "everytime",
      0
     ]
    ]
@@ -6848,5 +6852,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-16T21:22:55.242Z"
+ "lastScan": "2026-11-16T21:52:57.624Z"
 }
