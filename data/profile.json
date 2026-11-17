@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2189,
+ "watchedTotal": 2190,
  "recent": [
   "clayface",
   "animals-2026",
@@ -21,6 +21,7 @@
   "primetime-2026",
   "a-place-to-heal",
   "wild-horse-nine",
+  "by-any-means-2026",
   "onslaught-2026",
   "the-uprising-2026",
   "ink-2026",
@@ -71,12 +72,10 @@
   "the-drama",
   "dreamquil",
   "over-your-dead-body-2026",
-  "hokum",
-  "mike-nick-nick-alice"
+  "hokum"
  ],
  "watchlist": [
   "the-floaters",
-  "marrow-2026",
   "sixteen-candles",
   "belle-de-jour",
   "and-god-created-woman",
@@ -92,7 +91,7 @@
   {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
-   "count": 144,
+   "count": 145,
    "description": ""
   },
   {
@@ -2617,9 +2616,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 144,
+   "count": 145,
    "ranked": true,
-   "updated": "2026-11-16T21:49:44.594Z",
+   "updated": "2026-11-17T14:07:49.964Z",
    "at": "2026-11-17",
    "items": [
     [
@@ -2715,15 +2714,19 @@
      4
     ],
     [
-     "wild-horse-nine",
-     4
-    ],
-    [
      "positions-2025",
      4
     ],
     [
      "union-county-2026",
+     3.5
+    ],
+    [
+     "everytime",
+     3.5
+    ],
+    [
+     "wild-horse-nine",
      3.5
     ],
     [
@@ -2907,6 +2910,10 @@
      2.5
     ],
     [
+     "being-heumann",
+     0
+    ],
+    [
      "the-mandalorian-and-grogu",
      3
     ],
@@ -2951,12 +2958,20 @@
      3
     ],
     [
-     "i-love-boosters",
-     3
+     "i-play-rocky",
+     2.5
     ],
     [
      "backrooms-2026",
      3
+    ],
+    [
+     "i-love-boosters",
+     3
+    ],
+    [
+     "by-any-means-2026",
+     2.5
     ],
     [
      "the-napa-boys",
@@ -3185,18 +3200,6 @@
     [
      "mercy-2026",
      1
-    ],
-    [
-     "i-play-rocky",
-     2.5
-    ],
-    [
-     "being-heumann",
-     0
-    ],
-    [
-     "everytime",
-     0
     ]
    ]
   },
@@ -6852,5 +6855,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-17T13:56:11.701Z"
+ "lastScan": "2026-11-17T14:26:14.237Z"
 }
