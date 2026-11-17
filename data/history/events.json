@@ -1634,5 +1634,17 @@
   "rewatch": false,
   "date": "2026-11-17",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-17T18:26:33.070Z",
+  "type": "watch",
+  "slug": "se7en",
+  "title": "Se7en",
+  "year": 1995,
+  "rating": 5,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-17",
+  "via": "diary"
  }
 ]

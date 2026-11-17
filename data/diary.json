@@ -2042,5 +2042,19 @@
   "tmdb": 535581,
   "poster": "https://a.ltrbxd.com/resized/film-poster/4/6/4/7/3/5/464735-the-dead-don-t-die-0-600-0-900-crop.jpg?v=d01422458c",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1591136141",
+  "slug": "se7en",
+  "title": "Se7en",
+  "year": 1995,
+  "watchedDate": "2026-11-17",
+  "published": "Wed, 18 Nov 2026 07:02:35 +1300",
+  "rewatch": true,
+  "rating": 5,
+  "liked": true,
+  "tmdb": 807,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/3/4/5/51345-se7en-0-600-0-900-crop.jpg?v=76a14ef6b4",
+  "review": ""
  }
 ]

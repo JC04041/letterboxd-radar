@@ -89,6 +89,12 @@
  ],
  "listsIndex": [
   {
+   "slug": "fincher-ranked-updated-2026",
+   "title": "Fincher Ranked Updated 2026",
+   "count": 2,
+   "description": ""
+  },
+  {
    "slug": "2026-ranked",
    "title": "2026 Ranked",
    "count": 145,
@@ -153,12 +159,6 @@
    "title": "Best Picture Winners Ranked",
    "count": 50,
    "description": ""
-  },
-  {
-   "slug": "top-100-16-01-2026",
-   "title": "Top 100 16/01/2026",
-   "count": 100,
-   "description": "Rough Ranking - Vibes Not Star RatingsDirectors With 3+ Films: Paul Thomas Anderson - 5 Martin Scorsese - 4 David Fincher - 4 Quentin Tarantino - 3 Christopher Nolan - 3 Darren Aronofsky - 3"
   }
  ],
  "top100": {
@@ -5079,415 +5079,6 @@
     ]
    ]
   },
-  "top-100-16-01-2026": {
-   "title": "Top 100 16/01/2026",
-   "count": 100,
-   "ranked": true,
-   "updated": "2026-01-22T23:50:37.899Z",
-   "at": "2026-11-17",
-   "items": [
-    [
-     "the-assassination-of-jesse-james-by-the-coward-robert-ford",
-     5
-    ],
-    [
-     "goodfellas",
-     5
-    ],
-    [
-     "once-upon-a-time-in-hollywood",
-     5
-    ],
-    [
-     "somewhere",
-     5
-    ],
-    [
-     "heat-1995",
-     5
-    ],
-    [
-     "12-angry-men",
-     5
-    ],
-    [
-     "drive-2011",
-     5
-    ],
-    [
-     "chungking-express",
-     5
-    ],
-    [
-     "days-of-heaven",
-     5
-    ],
-    [
-     "mad-max-fury-road",
-     5
-    ],
-    [
-     "one-flew-over-the-cuckoos-nest",
-     5
-    ],
-    [
-     "bay-of-angels",
-     5
-    ],
-    [
-     "inglourious-basterds",
-     5
-    ],
-    [
-     "dune-part-two",
-     5
-    ],
-    [
-     "magnolia",
-     5
-    ],
-    [
-     "dazed-and-confused",
-     5
-    ],
-    [
-     "shame-2011",
-     5
-    ],
-    [
-     "heaven-knows-what",
-     5
-    ],
-    [
-     "the-day-of-the-jackal",
-     5
-    ],
-    [
-     "the-batman",
-     5
-    ],
-    [
-     "jackass-the-movie",
-     5
-    ],
-    [
-     "oceans-eleven-2001",
-     5
-    ],
-    [
-     "columbus-2017",
-     4.5
-    ],
-    [
-     "boogie-nights",
-     5
-    ],
-    [
-     "clerks",
-     5
-    ],
-    [
-     "la-haine",
-     5
-    ],
-    [
-     "the-hunt-2012",
-     5
-    ],
-    [
-     "star-wars",
-     5
-    ],
-    [
-     "rear-window",
-     5
-    ],
-    [
-     "superbad",
-     5
-    ],
-    [
-     "little-miss-sunshine",
-     5
-    ],
-    [
-     "se7en",
-     5
-    ],
-    [
-     "taxi-driver",
-     5
-    ],
-    [
-     "the-social-network",
-     5
-    ],
-    [
-     "manchester-by-the-sea",
-     5
-    ],
-    [
-     "barefoot-in-the-park",
-     4.5
-    ],
-    [
-     "possessor",
-     4.5
-    ],
-    [
-     "on-the-waterfront",
-     4.5
-    ],
-    [
-     "oppenheimer-2023",
-     5
-    ],
-    [
-     "la-la-land",
-     5
-    ],
-    [
-     "raging-bull",
-     4.5
-    ],
-    [
-     "there-will-be-blood",
-     5
-    ],
-    [
-     "the-lady-eve",
-     4.5
-    ],
-    [
-     "another-round",
-     5
-    ],
-    [
-     "butch-cassidy-and-the-sundance-kid",
-     5
-    ],
-    [
-     "american-psycho",
-     5
-    ],
-    [
-     "the-breakfast-club",
-     5
-    ],
-    [
-     "carrie-1976",
-     5
-    ],
-    [
-     "the-deer-hunter",
-     5
-    ],
-    [
-     "the-banshees-of-inisherin",
-     5
-    ],
-    [
-     "children-of-men",
-     5
-    ],
-    [
-     "requiem-for-a-dream",
-     5
-    ],
-    [
-     "pulp-fiction",
-     4.5
-    ],
-    [
-     "election",
-     4.5
-    ],
-    [
-     "dune-2021",
-     5
-    ],
-    [
-     "fight-club",
-     4.5
-    ],
-    [
-     "lars-and-the-real-girl",
-     4.5
-    ],
-    [
-     "the-wrestler",
-     4.5
-    ],
-    [
-     "zodiac",
-     5
-    ],
-    [
-     "night-moves",
-     4.5
-    ],
-    [
-     "the-evil-dead",
-     4.5
-    ],
-    [
-     "primal-fear",
-     4.5
-    ],
-    [
-     "casablanca",
-     5
-    ],
-    [
-     "le-samourai",
-     4.5
-    ],
-    [
-     "sing-sing-2023",
-     4.5
-    ],
-    [
-     "punch-drunk-love",
-     4.5
-    ],
-    [
-     "fargo",
-     4.5
-    ],
-    [
-     "the-dark-knight",
-     4.5
-    ],
-    [
-     "mulholland-drive",
-     5
-    ],
-    [
-     "short-term-12-2013",
-     4.5
-    ],
-    [
-     "before-midnight",
-     4.5
-    ],
-    [
-     "blue-valentine",
-     4.5
-    ],
-    [
-     "jackass-number-two",
-     4.5
-    ],
-    [
-     "inception",
-     5
-    ],
-    [
-     "challengers",
-     4.5
-    ],
-    [
-     "battle-royale",
-     4.5
-    ],
-    [
-     "one-battle-after-another",
-     5
-    ],
-    [
-     "may-december",
-     4.5
-    ],
-    [
-     "nowhere-special",
-     4.5
-    ],
-    [
-     "oldboy",
-     4.5
-    ],
-    [
-     "baby-driver",
-     5
-    ],
-    [
-     "the-iron-claw-2023",
-     5
-    ],
-    [
-     "dial-m-for-murder",
-     4.5
-    ],
-    [
-     "the-graduate",
-     4.5
-    ],
-    [
-     "chicago",
-     4.5
-    ],
-    [
-     "the-color-of-money",
-     4.5
-    ],
-    [
-     "badlands",
-     4.5
-    ],
-    [
-     "anora",
-     4.5
-    ],
-    [
-     "hud",
-     4
-    ],
-    [
-     "prometheus",
-     4.5
-    ],
-    [
-     "oceans-twelve",
-     4.5
-    ],
-    [
-     "bullitt",
-     4
-    ],
-    [
-     "whiplash-2014",
-     5
-    ],
-    [
-     "black-swan",
-     5
-    ],
-    [
-     "spider-man-across-the-spider-verse",
-     5
-    ],
-    [
-     "the-shawshank-redemption",
-     5
-    ],
-    [
-     "sanctuary-2022",
-     4.5
-    ],
-    [
-     "cat-on-a-hot-tin-roof",
-     4.5
-    ],
-    [
-     "maps-to-the-stars",
-     4.5
-    ],
-    [
-     "true-grit-2010",
-     4.5
-    ]
-   ]
-  },
   "2023-ranked": {
    "title": "2023 Ranked",
    "count": 82,
@@ -5822,6 +5413,23 @@
     [
      "ghosted-2023",
      0.5
+    ]
+   ]
+  },
+  "fincher-ranked-updated-2026": {
+   "title": "Fincher Ranked Updated 2026",
+   "count": 2,
+   "ranked": true,
+   "updated": "2026-11-17T17:57:49.797Z",
+   "at": "2026-11-17",
+   "items": [
+    [
+     "se7en",
+     5
+    ],
+    [
+     "alien-3",
+     2
     ]
    ]
   }
@@ -6855,5 +6463,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-17T17:56:30.193Z"
+ "lastScan": "2026-11-17T18:26:32.558Z"
 }
