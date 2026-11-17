@@ -2643,7 +2643,7 @@
     ],
     [
      "queen-at-sea",
-     0
+     4
     ],
     [
      "blue-heron",
@@ -2679,7 +2679,7 @@
     ],
     [
      "godzilla-minus-zero",
-     0
+     4
     ],
     [
      "the-odyssey-2026",
@@ -2911,7 +2911,7 @@
     ],
     [
      "being-heumann",
-     0
+     3
     ],
     [
      "the-mandalorian-and-grogu",
@@ -5434,7 +5434,7 @@
    ]
   }
  },
- "lastFull": "2026-11-17T17:26:28.522Z",
+ "lastFull": "2026-11-17T23:27:40.271Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6463,5 +6463,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-17T22:57:37.159Z"
+ "lastScan": "2026-11-17T23:27:40.271Z"
 }
