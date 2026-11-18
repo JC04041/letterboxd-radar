@@ -1698,5 +1698,17 @@
   "rewatch": false,
   "date": "2026-11-18",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-18T18:00:41.956Z",
+  "type": "watch",
+  "slug": "zodiac",
+  "title": "Zodiac",
+  "year": 2007,
+  "rating": 5,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-18",
+  "via": "diary"
  }
 ]
