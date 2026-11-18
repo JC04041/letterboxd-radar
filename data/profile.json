@@ -1,6 +1,7 @@
 {
- "watchedTotal": 2191,
+ "watchedTotal": 2192,
  "recent": [
+  "madden-2026",
   "clayface",
   "animals-2026",
   "godzilla-minus-zero",
@@ -71,8 +72,7 @@
   "they-will-kill-you",
   "the-drama",
   "dreamquil",
-  "over-your-dead-body-2026",
-  "hokum"
+  "over-your-dead-body-2026"
  ],
  "watchlist": [
   "the-floaters",
@@ -89,15 +89,15 @@
  ],
  "listsIndex": [
   {
-   "slug": "fincher-ranked-updated-2026",
-   "title": "Fincher Ranked Updated 2026",
-   "count": 4,
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 146,
    "description": ""
   },
   {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 145,
+   "slug": "fincher-ranked-updated-2026",
+   "title": "Fincher Ranked Updated 2026",
+   "count": 4,
    "description": ""
   },
   {
@@ -2616,9 +2616,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 145,
+   "count": 146,
    "ranked": true,
-   "updated": "2026-11-17T14:07:49.964Z",
+   "updated": "2026-11-18T13:58:51.494Z",
    "at": "2026-11-18",
    "items": [
     [
@@ -3200,6 +3200,10 @@
     [
      "mercy-2026",
      1
+    ],
+    [
+     "madden-2026",
+     2.5
     ]
    ]
   },
@@ -6471,5 +6475,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-18T13:30:20.080Z"
+ "lastScan": "2026-11-18T14:00:22.360Z"
 }

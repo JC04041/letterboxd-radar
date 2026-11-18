@@ -1686,5 +1686,17 @@
   "title": "Panic Room",
   "from": 4.5,
   "to": 4
+ },
+ {
+  "t": "2026-11-18T14:00:22.775Z",
+  "type": "watch",
+  "slug": "madden-2026",
+  "title": "Madden",
+  "year": 2026,
+  "rating": 2.5,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-11-18",
+  "via": "diary"
  }
 ]
