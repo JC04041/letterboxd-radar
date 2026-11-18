@@ -89,15 +89,15 @@
  ],
  "listsIndex": [
   {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 146,
+   "slug": "fincher-ranked-updated-2026",
+   "title": "Fincher Ranked Updated 2026",
+   "count": 5,
    "description": ""
   },
   {
-   "slug": "fincher-ranked-updated-2026",
-   "title": "Fincher Ranked Updated 2026",
-   "count": 4,
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 146,
    "description": ""
   },
   {
@@ -5422,11 +5422,15 @@
   },
   "fincher-ranked-updated-2026": {
    "title": "Fincher Ranked Updated 2026",
-   "count": 4,
+   "count": 5,
    "ranked": true,
-   "updated": "2026-11-17T17:57:49.797Z",
+   "updated": "2026-11-18T18:42:24.892Z",
    "at": "2026-11-18",
    "items": [
+    [
+     "zodiac",
+     5
+    ],
     [
      "se7en",
      5
@@ -6475,5 +6479,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-18T18:30:43.962Z"
+ "lastScan": "2026-11-18T19:00:45.011Z"
 }
