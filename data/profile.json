@@ -92,7 +92,7 @@
   {
    "slug": "fincher-ranked-updated-2026",
    "title": "Fincher Ranked Updated 2026",
-   "count": 5,
+   "count": 6,
    "description": ""
   },
   {
@@ -5423,9 +5423,9 @@
   },
   "fincher-ranked-updated-2026": {
    "title": "Fincher Ranked Updated 2026",
-   "count": 5,
+   "count": 6,
    "ranked": true,
-   "updated": "2026-11-18T18:42:24.892Z",
+   "updated": "2026-11-18T22:34:15.674Z",
    "at": "2026-11-18",
    "items": [
     [
@@ -5435,6 +5435,10 @@
     [
      "se7en",
      5
+    ],
+    [
+     "the-curious-case-of-benjamin-button",
+     4
     ],
     [
      "the-game",
@@ -6480,5 +6484,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-18T22:31:50.887Z"
+ "lastScan": "2026-11-18T23:01:52.138Z"
 }

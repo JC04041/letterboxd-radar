@@ -1716,5 +1716,17 @@
   "type": "wl+",
   "slug": "gentle-monster",
   "title": "Gentle Monster"
+ },
+ {
+  "t": "2026-11-18T23:01:52.573Z",
+  "type": "watch",
+  "slug": "the-curious-case-of-benjamin-button",
+  "title": "The Curious Case of Benjamin Button",
+  "year": 2008,
+  "rating": 4,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-18",
+  "via": "diary"
  }
 ]
