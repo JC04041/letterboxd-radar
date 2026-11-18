@@ -1666,5 +1666,25 @@
   "title": "The Game",
   "from": 3,
   "to": 4
+ },
+ {
+  "t": "2026-11-18T01:57:54.810Z",
+  "type": "watch",
+  "slug": "panic-room",
+  "title": "Panic Room",
+  "year": 2002,
+  "rating": 4,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-18",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-18T01:57:54.810Z",
+  "type": "rate",
+  "slug": "panic-room",
+  "title": "Panic Room",
+  "from": 4.5,
+  "to": 4
  }
 ]

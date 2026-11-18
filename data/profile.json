@@ -91,7 +91,7 @@
   {
    "slug": "fincher-ranked-updated-2026",
    "title": "Fincher Ranked Updated 2026",
-   "count": 2,
+   "count": 4,
    "description": ""
   },
   {
@@ -5418,14 +5418,22 @@
   },
   "fincher-ranked-updated-2026": {
    "title": "Fincher Ranked Updated 2026",
-   "count": 2,
+   "count": 4,
    "ranked": true,
    "updated": "2026-11-17T17:57:49.797Z",
-   "at": "2026-11-17",
+   "at": "2026-11-18",
    "items": [
     [
      "se7en",
      5
+    ],
+    [
+     "the-game",
+     4
+    ],
+    [
+     "panic-room",
+     4
     ],
     [
      "alien-3",
@@ -6463,5 +6471,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-18T01:27:49.768Z"
+ "lastScan": "2026-11-18T01:57:54.325Z"
 }
