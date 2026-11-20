@@ -1728,5 +1728,17 @@
   "rewatch": true,
   "date": "2026-11-18",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-20T04:07:15.077Z",
+  "type": "watch",
+  "slug": "wendy-and-lucy",
+  "title": "Wendy and Lucy",
+  "year": 2008,
+  "rating": 4,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-20",
+  "via": "diary"
  }
 ]
