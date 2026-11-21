@@ -484,5 +484,14 @@
   "watchlist": 12,
   "films": 9418,
   "directors": 1110
+ },
+ "2026-11-21": {
+  "found": 2029,
+  "total": 2194,
+  "rated": 2011,
+  "avg": 3.297,
+  "watchlist": 12,
+  "films": 9418,
+  "directors": 1110
  }
 }
