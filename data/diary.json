@@ -2168,5 +2168,19 @@
   "tmdb": 340487,
   "poster": "https://a.ltrbxd.com/resized/film-poster/2/6/9/8/9/8/269898-certain-women-0-600-0-900-crop.jpg?v=85708ca3a8",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1596217182",
+  "slug": "the-purple-rose-of-cairo",
+  "title": "The Purple Rose of Cairo",
+  "year": 1985,
+  "watchedDate": "2026-11-21",
+  "published": "Sun, 22 Nov 2026 03:56:15 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": true,
+  "tmdb": 10849,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/l6/r5/qn/bu/qNlpblOaOKWWWVqpXoBvtc9rcW4-0-600-0-900-crop.jpg?v=54b4c146ce",
+  "review": ""
  }
 ]
