@@ -2196,5 +2196,19 @@
   "tmdb": 1214469,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/0/9/8/3/0/6/1098306-ghostlight-0-600-0-900-crop.jpg?v=f28bcaa322",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1597172281",
+  "slug": "metropolitan",
+  "title": "Metropolitan",
+  "year": 1990,
+  "watchedDate": "2026-11-22",
+  "published": "Sun, 22 Nov 2026 14:51:57 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": true,
+  "tmdb": 15389,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/4/2/4/1/1/42411-metropolitan-0-600-0-900-crop.jpg?v=cc125fb022",
+  "review": ""
  }
 ]
