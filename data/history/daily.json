@@ -493,5 +493,14 @@
   "watchlist": 12,
   "films": 9422,
   "directors": 1110
+ },
+ "2026-11-22": {
+  "found": 2031,
+  "total": 2196,
+  "rated": 2013,
+  "avg": 3.298,
+  "watchlist": 12,
+  "films": 9422,
+  "directors": 1110
  }
 }
