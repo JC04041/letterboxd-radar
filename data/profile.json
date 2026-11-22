@@ -92,7 +92,7 @@
   {
    "slug": "fincher-ranked-updated-2026",
    "title": "Fincher Ranked Updated 2026",
-   "count": 6,
+   "count": 7,
    "description": ""
   },
   {
@@ -5423,9 +5423,9 @@
   },
   "fincher-ranked-updated-2026": {
    "title": "Fincher Ranked Updated 2026",
-   "count": 6,
+   "count": 7,
    "ranked": true,
-   "updated": "2026-11-18T22:34:15.674Z",
+   "updated": "2026-11-22T22:34:44.255Z",
    "at": "2026-11-22",
    "items": [
     [
@@ -5435,6 +5435,10 @@
     [
      "se7en",
      5
+    ],
+    [
+     "fight-club",
+     4.5
     ],
     [
      "the-curious-case-of-benjamin-button",
@@ -6484,5 +6488,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-22T22:20:10.961Z"
+ "lastScan": "2026-11-22T22:50:12.719Z"
 }

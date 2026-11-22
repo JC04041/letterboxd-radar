@@ -2224,5 +2224,19 @@
   "tmdb": 11030,
   "poster": "https://a.ltrbxd.com/resized/sm/upload/t8/cq/nv/20/47PWRahwzpypXqUoViDXJbVG2hH-0-600-0-900-crop.jpg?v=998e2376b7",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1598683890",
+  "slug": "fight-club",
+  "title": "Fight Club",
+  "year": 1999,
+  "watchedDate": "2026-11-22",
+  "published": "Mon, 23 Nov 2026 11:34:21 +1300",
+  "rewatch": true,
+  "rating": 4.5,
+  "liked": true,
+  "tmdb": 550,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-600-0-900-crop.jpg?v=768b32dfa4",
+  "review": ""
  }
 ]

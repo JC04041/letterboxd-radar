@@ -1812,5 +1812,17 @@
   "rewatch": false,
   "date": "2026-11-22",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-22T22:50:13.080Z",
+  "type": "watch",
+  "slug": "fight-club",
+  "title": "Fight Club",
+  "year": 1999,
+  "rating": 4.5,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-22",
+  "via": "diary"
  }
 ]
