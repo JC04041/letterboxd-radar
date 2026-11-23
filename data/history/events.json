@@ -1824,5 +1824,25 @@
   "rewatch": true,
   "date": "2026-11-22",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-23T15:24:13.067Z",
+  "type": "watch",
+  "slug": "gone-girl",
+  "title": "Gone Girl",
+  "year": 2014,
+  "rating": 5,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-23",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-23T15:24:13.067Z",
+  "type": "rate",
+  "slug": "gone-girl",
+  "title": "Gone Girl",
+  "from": 4.5,
+  "to": 5
  }
 ]

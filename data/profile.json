@@ -90,15 +90,15 @@
  ],
  "listsIndex": [
   {
-   "slug": "2024-ranked",
-   "title": "2024 Ranked",
-   "count": 130,
+   "slug": "fincher-ranked-updated-2026",
+   "title": "Fincher Ranked Updated 2026",
+   "count": 8,
    "description": ""
   },
   {
-   "slug": "fincher-ranked-updated-2026",
-   "title": "Fincher Ranked Updated 2026",
-   "count": 7,
+   "slug": "2024-ranked",
+   "title": "2024 Ranked",
+   "count": 130,
    "description": ""
   },
   {
@@ -5214,9 +5214,9 @@
   },
   "fincher-ranked-updated-2026": {
    "title": "Fincher Ranked Updated 2026",
-   "count": 7,
+   "count": 8,
    "ranked": true,
-   "updated": "2026-11-22T22:34:44.255Z",
+   "updated": "2026-11-23T15:21:26.208Z",
    "at": "2026-11-23",
    "items": [
     [
@@ -5225,6 +5225,10 @@
     ],
     [
      "se7en",
+     5
+    ],
+    [
+     "gone-girl",
      5
     ],
     [
@@ -6808,5 +6812,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-23T14:54:10.045Z"
+ "lastScan": "2026-11-23T15:24:12.674Z"
 }

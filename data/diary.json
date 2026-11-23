@@ -2238,5 +2238,19 @@
   "tmdb": 550,
   "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-600-0-900-crop.jpg?v=768b32dfa4",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1599673182",
+  "slug": "gone-girl",
+  "title": "Gone Girl",
+  "year": 2014,
+  "watchedDate": "2026-11-23",
+  "published": "Tue, 24 Nov 2026 04:21:04 +1300",
+  "rewatch": true,
+  "rating": 5,
+  "liked": true,
+  "tmdb": 210577,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-600-0-900-crop.jpg?v=dfe3c8018b",
+  "review": ""
  }
 ]
