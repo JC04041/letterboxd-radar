@@ -90,6 +90,12 @@
  ],
  "listsIndex": [
   {
+   "slug": "2024-ranked",
+   "title": "2024 Ranked",
+   "count": 130,
+   "description": ""
+  },
+  {
    "slug": "fincher-ranked-updated-2026",
    "title": "Fincher Ranked Updated 2026",
    "count": 7,
@@ -153,12 +159,6 @@
    "slug": "2025-ranked",
    "title": "2025 Ranked",
    "count": 167,
-   "description": ""
-  },
-  {
-   "slug": "best-picture-winners-ranked-1",
-   "title": "Best Picture Winners Ranked",
-   "count": 50,
    "description": ""
   }
  ],
@@ -2211,7 +2211,7 @@
    "count": 100,
    "ranked": true,
    "updated": "2026-10-30T02:41:37.616Z",
-   "at": "2026-11-22",
+   "at": "2026-11-23",
    "items": [
     [
      "goodfellas",
@@ -4875,215 +4875,6 @@
     ]
    ]
   },
-  "best-picture-winners-ranked-1": {
-   "title": "Best Picture Winners Ranked",
-   "count": 50,
-   "ranked": true,
-   "updated": "2026-03-16T02:48:50.298Z",
-   "at": "2026-11-22",
-   "items": [
-    [
-     "one-flew-over-the-cuckoos-nest",
-     5
-    ],
-    [
-     "oppenheimer-2023",
-     5
-    ],
-    [
-     "the-deer-hunter",
-     5
-    ],
-    [
-     "casablanca",
-     5
-    ],
-    [
-     "one-battle-after-another",
-     5
-    ],
-    [
-     "on-the-waterfront",
-     4.5
-    ],
-    [
-     "anora",
-     4.5
-    ],
-    [
-     "chicago",
-     4.5
-    ],
-    [
-     "the-departed",
-     4.5
-    ],
-    [
-     "the-godfather-part-ii",
-     4.5
-    ],
-    [
-     "the-apartment",
-     4.5
-    ],
-    [
-     "no-country-for-old-men",
-     4.5
-    ],
-    [
-     "rain-man",
-     4.5
-    ],
-    [
-     "the-godfather",
-     4.5
-    ],
-    [
-     "the-silence-of-the-lambs",
-     4.5
-    ],
-    [
-     "amadeus",
-     4.5
-    ],
-    [
-     "the-french-connection",
-     4.5
-    ],
-    [
-     "unforgiven",
-     4.5
-    ],
-    [
-     "marty",
-     4.5
-    ],
-    [
-     "the-sting",
-     4
-    ],
-    [
-     "all-about-eve",
-     4
-    ],
-    [
-     "million-dollar-baby",
-     4
-    ],
-    [
-     "birdman-or-the-unexpected-virtue-of-ignorance",
-     4.5
-    ],
-    [
-     "spotlight",
-     4.5
-    ],
-    [
-     "parasite-2019",
-     4.5
-    ],
-    [
-     "in-the-heat-of-the-night",
-     4
-    ],
-    [
-     "argo",
-     4
-    ],
-    [
-     "midnight-cowboy",
-     4
-    ],
-    [
-     "everything-everywhere-all-at-once",
-     4.5
-    ],
-    [
-     "west-side-story",
-     4
-    ],
-    [
-     "it-happened-one-night",
-     4
-    ],
-    [
-     "rocky",
-     4
-    ],
-    [
-     "coda-2021",
-     3.5
-    ],
-    [
-     "gladiator-2000",
-     3.5
-    ],
-    [
-     "the-hurt-locker",
-     3.5
-    ],
-    [
-     "the-shape-of-water",
-     3.5
-    ],
-    [
-     "an-american-in-paris",
-     3.5
-    ],
-    [
-     "platoon",
-     4
-    ],
-    [
-     "slumdog-millionaire",
-     4
-    ],
-    [
-     "the-kings-speech",
-     3.5
-    ],
-    [
-     "a-beautiful-mind",
-     3
-    ],
-    [
-     "green-book",
-     3
-    ],
-    [
-     "annie-hall",
-     3
-    ],
-    [
-     "all-quiet-on-the-western-front",
-     3
-    ],
-    [
-     "nomadland",
-     2.5
-    ],
-    [
-     "driving-miss-daisy",
-     2.5
-    ],
-    [
-     "crash-2004",
-     2
-    ],
-    [
-     "the-broadway-melody",
-     2
-    ],
-    [
-     "cimarron",
-     1.5
-    ],
-    [
-     "chariots-of-fire",
-     1
-    ]
-   ]
-  },
   "2023-ranked": {
    "title": "2023 Ranked",
    "count": 82,
@@ -5457,19 +5248,548 @@
      2
     ]
    ]
+  },
+  "2024-ranked": {
+   "title": "2024 Ranked",
+   "count": 130,
+   "ranked": true,
+   "updated": "2026-11-23T00:05:53.041Z",
+   "at": "2026-11-23",
+   "items": [
+    [
+     "dune-part-two",
+     5
+    ],
+    [
+     "challengers",
+     4.5
+    ],
+    [
+     "sing-sing-2023",
+     4.5
+    ],
+    [
+     "anora",
+     4.5
+    ],
+    [
+     "nickel-boys",
+     4.5
+    ],
+    [
+     "sometimes-i-think-about-dying-2023",
+     4.5
+    ],
+    [
+     "the-brutalist",
+     4.5
+    ],
+    [
+     "hit-man-2023",
+     4
+    ],
+    [
+     "i-saw-the-tv-glow",
+     4
+    ],
+    [
+     "its-whats-inside",
+     4
+    ],
+    [
+     "good-girl-jane-2022",
+     4
+    ],
+    [
+     "nosferatu-2024",
+     4
+    ],
+    [
+     "trap-2024",
+     4
+    ],
+    [
+     "caddo-lake",
+     4
+    ],
+    [
+     "heretic-2024",
+     4
+    ],
+    [
+     "juror-2",
+     4
+    ],
+    [
+     "thelma-2024",
+     4
+    ],
+    [
+     "rez-ball",
+     4
+    ],
+    [
+     "a-real-pain",
+     4
+    ],
+    [
+     "strange-darling",
+     4
+    ],
+    [
+     "love-lies-bleeding-2024",
+     4
+    ],
+    [
+     "rap-world",
+     4
+    ],
+    [
+     "civil-war-2024",
+     4
+    ],
+    [
+     "his-three-daughters",
+     4
+    ],
+    [
+     "gladiator-ii",
+     4
+    ],
+    [
+     "kneecap",
+     4
+    ],
+    [
+     "furiosa-a-mad-max-saga",
+     4
+    ],
+    [
+     "the-apprentice-2024",
+     3.5
+    ],
+    [
+     "conclave",
+     3.5
+    ],
+    [
+     "snack-shack",
+     3.5
+    ],
+    [
+     "the-order-2024",
+     3.5
+    ],
+    [
+     "a-complete-unknown",
+     3.5
+    ],
+    [
+     "maria-2024",
+     3.5
+    ],
+    [
+     "bird-2024",
+     3.5
+    ],
+    [
+     "my-old-ass",
+     3.5
+    ],
+    [
+     "musica",
+     3.5
+    ],
+    [
+     "alien-romulus",
+     3.5
+    ],
+    [
+     "turtles-all-the-way-down",
+     3.5
+    ],
+    [
+     "ghostlight-2024",
+     3.5
+    ],
+    [
+     "humanist-vampire-seeking-consenting-suicidal-person",
+     3.5
+    ],
+    [
+     "look-back-2024",
+     3.5
+    ],
+    [
+     "kingdom-of-the-planet-of-the-apes",
+     3.5
+    ],
+    [
+     "longlegs",
+     3.5
+    ],
+    [
+     "the-substance",
+     3.5
+    ],
+    [
+     "beetlejuice-beetlejuice",
+     3.5
+    ],
+    [
+     "megalopolis-2024",
+     3.5
+    ],
+    [
+     "suncoast",
+     3.5
+    ],
+    [
+     "carry-on-2024",
+     3.5
+    ],
+    [
+     "the-first-omen",
+     3.5
+    ],
+    [
+     "saturday-night-2024",
+     3.5
+    ],
+    [
+     "hard-truths-2024",
+     3.5
+    ],
+    [
+     "inside-out-2-2024",
+     3.5
+    ],
+    [
+     "woman-of-the-hour",
+     3.5
+    ],
+    [
+     "wolfs",
+     3.5
+    ],
+    [
+     "daddio-2023",
+     3.5
+    ],
+    [
+     "kinds-of-kindness",
+     3.5
+    ],
+    [
+     "i-used-to-be-funny",
+     3.5
+    ],
+    [
+     "late-night-with-the-devil",
+     3.5
+    ],
+    [
+     "magpie-2024",
+     3
+    ],
+    [
+     "abigail-2024",
+     3
+    ],
+    [
+     "here-2024",
+     3
+    ],
+    [
+     "small-things-like-these",
+     3
+    ],
+    [
+     "memoir-of-a-snail",
+     3
+    ],
+    [
+     "lisa-frankenstein",
+     3
+    ],
+    [
+     "september-5",
+     3
+    ],
+    [
+     "flow-2024",
+     3
+    ],
+    [
+     "emilia-perez",
+     3
+    ],
+    [
+     "knox-goes-away",
+     3
+    ],
+    [
+     "wallace-gromit-vengeance-most-fowl",
+     3
+    ],
+    [
+     "the-last-stop-in-yuma-county",
+     3
+    ],
+    [
+     "oddity-2024",
+     3
+    ],
+    [
+     "rebel-ridge",
+     3
+    ],
+    [
+     "the-instigators",
+     3
+    ],
+    [
+     "the-bikeriders",
+     3
+    ],
+    [
+     "the-4-30-movie",
+     3
+    ],
+    [
+     "the-greatest-hits",
+     3
+    ],
+    [
+     "speak-no-evil-2024",
+     3
+    ],
+    [
+     "monkey-man",
+     3
+    ],
+    [
+     "fancy-dance-2023",
+     3
+    ],
+    [
+     "self-reliance",
+     3
+    ],
+    [
+     "ricky-stanicky",
+     3
+    ],
+    [
+     "milk-serial",
+     3
+    ],
+    [
+     "immaculate-2024",
+     3
+    ],
+    [
+     "your-monster-2024",
+     2.5
+    ],
+    [
+     "blitz-2024",
+     2.5
+    ],
+    [
+     "a-quiet-place-day-one",
+     2.5
+    ],
+    [
+     "maxxxine",
+     2.5
+    ],
+    [
+     "terrifier-3",
+     2.5
+    ],
+    [
+     "young-woman-and-the-sea",
+     2.5
+    ],
+    [
+     "road-house-2024",
+     2.5
+    ],
+    [
+     "mean-girls-2024",
+     2.5
+    ],
+    [
+     "the-idea-of-you-2024",
+     2.5
+    ],
+    [
+     "a-family-affair-2024-1",
+     2.5
+    ],
+    [
+     "jackpot-2024",
+     2.5
+    ],
+    [
+     "joker-folie-a-deux",
+     2.5
+    ],
+    [
+     "scoop-2024",
+     2.5
+    ],
+    [
+     "in-a-violent-nature",
+     2.5
+    ],
+    [
+     "wicked-little-letters",
+     2.5
+    ],
+    [
+     "the-ministry-of-ungentlemanly-warfare",
+     2.5
+    ],
+    [
+     "we-live-in-time",
+     2
+    ],
+    [
+     "cuckoo-2024",
+     2
+    ],
+    [
+     "marmalade-2024",
+     2
+    ],
+    [
+     "blink-twice",
+     2
+    ],
+    [
+     "the-piano-lesson-2024",
+     2
+    ],
+    [
+     "the-fall-guy-2024",
+     2
+    ],
+    [
+     "twisters",
+     2
+    ],
+    [
+     "beverly-hills-cop-axel-f",
+     2
+    ],
+    [
+     "the-book-of-clarence-2023",
+     2
+    ],
+    [
+     "orion-and-the-dark",
+     2
+    ],
+    [
+     "arcadian",
+     2
+    ],
+    [
+     "drive-away-dolls",
+     1.5
+    ],
+    [
+     "lee-2023",
+     1.5
+    ],
+    [
+     "nutcrackers",
+     1.5
+    ],
+    [
+     "red-one",
+     1.5
+    ],
+    [
+     "justice-league-crisis-on-infinite-earths",
+     1.5
+    ],
+    [
+     "argylle",
+     1.5
+    ],
+    [
+     "night-swim-2024",
+     1.5
+    ],
+    [
+     "madame-web",
+     1.5
+    ],
+    [
+     "godzilla-kong-the-new-empire",
+     1.5
+    ],
+    [
+     "sting-2024",
+     1.5
+    ],
+    [
+     "justice-league-crisis-on-infinite-earths-2024",
+     1.5
+    ],
+    [
+     "damsel-2024",
+     1.5
+    ],
+    [
+     "sasquatch-sunset",
+     1.5
+    ],
+    [
+     "spaceman-2024",
+     1.5
+    ],
+    [
+     "millers-girl",
+     1
+    ],
+    [
+     "the-beekeeper-2024",
+     1
+    ],
+    [
+     "hoard",
+     1
+    ],
+    [
+     "role-play-2023",
+     1
+    ],
+    [
+     "justice-league-crisis-on-infinite-earths-2024-1",
+     0.5
+    ],
+    [
+     "rebel-moon-part-two-the-scargiver",
+     0.5
+    ]
+   ]
   }
  },
  "lastFull": "2026-11-22T23:50:15.931Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
-   "at": "2026-11-16",
+   "at": "2026-11-23",
    "items": [],
    "missing": true
   },
   "dave/list/imdb-top-250": {
    "title": "IMDb Top 250",
-   "at": "2026-11-16",
+   "at": "2026-11-23",
    "items": [
     "the-shawshank-redemption",
     "the-godfather",
@@ -5536,7 +5856,6 @@
     "the-lives-of-others",
     "sunset-boulevard",
     "witness-for-the-prosecution-1957",
-    "the-odyssey-2026",
     "paths-of-glory",
     "inglourious-basterds",
     "the-shining",
@@ -5545,6 +5864,7 @@
     "high-and-low",
     "12th-fail",
     "avengers-endgame",
+    "the-odyssey-2026",
     "good-will-hunting",
     "coco-2017",
     "toy-story",
@@ -5558,6 +5878,7 @@
     "oldboy",
     "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
     "attack-on-titan-the-last-attack",
+    "wildwood-2026",
     "american-beauty",
     "capernaum",
     "singin-in-the-rain",
@@ -5582,21 +5903,21 @@
     "like-stars-on-earth",
     "north-by-northwest",
     "full-metal-jacket",
-    "a-separation",
     "i-swear",
+    "a-separation",
     "die-hard",
     "m",
     "indiana-jones-and-the-last-crusade",
     "to-kill-a-mockingbird",
     "amelie",
-    "citizen-kane",
     "vertigo",
+    "citizen-kane",
     "the-sting",
     "the-truman-show",
-    "a-clockwork-orange",
     "the-wolf-of-wall-street",
-    "metropolis",
+    "a-clockwork-orange",
     "1917",
+    "metropolis",
     "snatch",
     "shutter-island",
     "downfall",
@@ -5606,8 +5927,8 @@
     "bicycle-thieves",
     "judgment-at-nuremberg",
     "jurassic-park",
-    "woman-in-the-dunes",
     "batman-begins",
+    "woman-in-the-dunes",
     "oppenheimer-2023",
     "for-a-few-dollars-more",
     "there-will-be-blood",
@@ -5635,8 +5956,8 @@
     "project-hail-mary",
     "yojimbo",
     "the-elephant-man",
-    "demon-slayer-kimetsu-no-yaiba-infinity-castle",
     "the-great-escape",
+    "demon-slayer-kimetsu-no-yaiba-infinity-castle",
     "monty-python-and-the-holy-grail",
     "dial-m-for-murder",
     "the-secret-in-their-eyes",
@@ -5647,9 +5968,9 @@
     "v-for-vendetta",
     "dead-poets-society",
     "inside-out-2015",
-    "the-best-of-youth",
     "harry-potter-and-the-deathly-hallows-part-2",
     "trainspotting",
+    "the-best-of-youth",
     "three-billboards-outside-ebbing-missouri",
     "the-bridge-on-the-river-kwai",
     "rashomon",
@@ -5665,8 +5986,8 @@
     "fargo",
     "my-neighbor-totoro",
     "gran-torino",
-    "12-years-a-slave",
     "how-to-train-your-dragon",
+    "12-years-a-slave",
     "raging-bull",
     "memories-of-murder",
     "the-grand-budapest-hotel",
@@ -5685,21 +6006,21 @@
     "mary-and-max",
     "sherlock-jr",
     "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
-    "logan-2017",
     "rocky",
-    "the-wages-of-fear",
+    "logan-2017",
     "the-deer-hunter",
+    "the-wages-of-fear",
     "the-general",
     "mr-smith-goes-to-washington",
-    "tokyo-story",
     "maharaja-2024",
+    "tokyo-story",
     "jai-bhim",
     "the-sound-of-music",
     "la-haine",
     "spotlight",
     "the-terminator",
-    "wild-strawberries",
     "the-best-years-of-our-lives",
+    "wild-strawberries",
     "on-the-waterfront",
     "the-third-man",
     "the-incredibles",
@@ -5719,13 +6040,12 @@
     "my-father-and-my-son",
     "drishyam-2015",
     "the-passion-of-joan-of-arc",
-    "gangs-of-wasseypur-part-1",
-    "miracle-in-cell-no-7-2019-1"
+    "gangs-of-wasseypur-part-1"
    ]
   },
   "official/list/letterboxds-top-500-films": {
    "title": "Letterboxd's Top 500 Films",
-   "at": "2026-11-16",
+   "at": "2026-11-23",
    "items": [
     "harakiri",
     "the-human-condition-iii-a-soldiers-prayer",
@@ -5758,14 +6078,15 @@
     "i-am-cuba",
     "the-cranes-are-flying",
     "goodfellas",
+    "la-bola-negra",
     "interstellar",
     "there-will-be-blood",
-    "la-bola-negra",
     "incendies",
     "woman-in-the-dunes",
     "its-a-wonderful-life",
     "paths-of-glory",
     "the-lord-of-the-rings-the-two-towers",
+    "club-kid",
     "andrei-rublev",
     "sunset-boulevard",
     "the-ascent",
@@ -5774,14 +6095,14 @@
     "the-apartment",
     "portrait-of-a-lady-on-fire",
     "tokyo-story",
-    "whiplash-2014",
     "memories-of-murder",
+    "whiplash-2014",
     "lawrence-of-arabia",
     "swing-girls",
     "life-is-beautiful",
     "witness-for-the-prosecution-1957",
-    "the-passion-of-joan-of-arc",
     "nobody-knows",
+    "the-passion-of-joan-of-arc",
     "mishima-a-life-in-four-chapters",
     "barry-lyndon",
     "the-voice-of-hind-rajab",
@@ -5791,68 +6112,67 @@
     "the-empire-strikes-back",
     "sansho-the-bailiff",
     "close-up",
-    "club-kid",
     "spider-man-across-the-spider-verse",
     "a-woman-under-the-influence",
     "a-separation",
-    "fanny-and-alexander",
     "princess-mononoke",
+    "fanny-and-alexander",
     "do-the-right-thing",
-    "love-exposure",
     "spider-man-into-the-spider-verse",
-    "wildwood-2026",
+    "love-exposure",
     "the-lord-of-the-rings-the-fellowship-of-the-ring",
     "good-will-hunting",
     "the-handmaiden",
-    "once-upon-a-time-in-the-west",
     "nights-of-cabiria",
+    "once-upon-a-time-in-the-west",
     "paper-moon",
     "an-elephant-sitting-still",
     "se7en",
     "stalker",
+    "wildwood-2026",
     "red-beard",
     "z",
     "apur-sansar",
     "dune-part-two",
     "judgment-at-nuremberg",
     "amadeus",
-    "perfect-blue",
     "one-flew-over-the-cuckoos-nest",
+    "perfect-blue",
     "how-to-make-millions-before-grandma-dies",
     "in-the-mood-for-love",
     "persona",
     "the-wages-of-fear",
     "inglourious-basterds",
-    "where-is-the-friends-house",
     "all-about-eve",
-    "scenes-from-a-marriage",
     "howls-moving-castle",
+    "where-is-the-friends-house",
+    "scenes-from-a-marriage",
     "rear-window",
     "satantango",
-    "oldboy",
     "chainsaw-man-the-movie-reze-arc",
     "dead-poets-society",
-    "paris-texas",
+    "oldboy",
     "twin-peaks-fire-walk-with-me",
+    "paris-texas",
     "central-station",
     "its-such-a-beautiful-day",
     "sherlock-jr",
     "monster-2023",
     "the-departed",
     "singin-in-the-rain",
+    "raise-the-red-lantern",
     "the-thing",
     "army-of-shadows",
-    "raise-the-red-lantern",
     "django-unchained",
     "prisoners",
     "eternity-and-a-day",
-    "a-man-escaped",
     "all-that-jazz",
+    "a-man-escaped",
     "still-walking",
     "the-silence-of-the-lambs",
+    "puella-magi-madoka-magica-the-movie-part-iii-rebellion",
     "a-special-day",
     "im-still-here-2024",
-    "puella-magi-madoka-magica-the-movie-part-iii-rebellion",
     "the-odyssey-2026",
     "das-boot",
     "three-colours-red",
@@ -5875,30 +6195,30 @@
     "shoplifters",
     "the-seventh-seal",
     "project-hail-mary",
-    "landscape-in-the-mist",
     "the-prestige",
+    "landscape-in-the-mist",
     "dog-day-afternoon",
     "city-lights",
     "before-sunset",
     "the-green-mile",
-    "mirror",
     "psycho",
-    "wings-of-desire",
+    "mirror",
     "chinatown",
-    "no-country-for-old-men",
-    "underground-1995",
+    "wings-of-desire",
     "fail-safe",
-    "children-of-men",
+    "underground-1995",
+    "no-country-for-old-men",
     "sing-sing-2023",
-    "yojimbo",
-    "the-father-2020",
+    "children-of-men",
     "song-of-the-sea",
+    "the-father-2020",
+    "yojimbo",
     "malcolm-x-1992",
     "fantastic-mr-fox",
     "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
     "tampopo",
-    "the-treasure-of-the-sierra-madre",
     "the-cremator",
+    "the-treasure-of-the-sierra-madre",
     "evangelion-3010-thrice-upon-a-time",
     "terminator-2-judgment-day",
     "life-and-nothing-more",
@@ -5908,22 +6228,22 @@
     "before-sunrise",
     "the-lives-of-others",
     "the-400-blows",
-    "the-iron-giant",
     "secrets-lies",
+    "the-iron-giant",
     "the-hunt-2012",
     "the-fall",
-    "look-back-2024",
     "some-like-it-hot",
-    "m",
+    "look-back-2024",
     "ritual-2000",
+    "m",
     "interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
     "opening-night",
     "casablanca",
     "cure",
+    "kizumonogatari-part-3-reiketsu",
     "children-of-paradise",
     "the-man-who-shot-liberty-valance",
     "bicycle-thieves",
-    "kizumonogatari-part-3-reiketsu",
     "the-devils",
     "ace-in-the-hole",
     "the-sacrifice",
@@ -5943,12 +6263,12 @@
     "i-swear",
     "la-notte",
     "network",
-    "throne-of-blood",
     "rififi",
-    "aparajito",
     "the-sound-of-music",
-    "jeanne-dielman-23-quai-du-commerce-1080-bruxelles",
+    "throne-of-blood",
+    "aparajito",
     "better-days-2019",
+    "jeanne-dielman-23-quai-du-commerce-1080-bruxelles",
     "double-indemnity",
     "mulholland-drive",
     "nostalgia-1983",
@@ -5964,49 +6284,49 @@
     "il-sorpasso",
     "ugetsu",
     "the-best-years-of-our-lives",
-    "the-face-of-another",
     "the-secret-in-their-eyes",
-    "anatomy-of-a-murder",
-    "vada-chennai",
-    "the-bridge-on-the-river-kwai",
     "meiyazhagan",
+    "the-face-of-another",
+    "the-bridge-on-the-river-kwai",
+    "anatomy-of-a-murder",
     "quo-vadis-aida",
     "marcel-the-shell-with-shoes-on-2021",
     "alien",
-    "umberto-d",
-    "inception",
-    "dreams",
-    "macario",
+    "vada-chennai",
     "capernaum",
+    "dreams",
+    "inception",
+    "umberto-d",
+    "macario",
     "modern-times",
     "the-king-of-comedy",
+    "turtles-can-fly",
     "eternal-sunshine-of-the-spotless-mind",
     "your-name",
     "millennium-actress",
-    "turtles-can-fly",
     "children-of-heaven",
     "amour",
+    "a-taxi-driver",
     "metropolis",
     "sweet-smell-of-success",
-    "a-taxi-driver",
-    "the-third-man",
     "kes",
-    "the-grand-budapest-hotel",
+    "the-third-man",
     "joint-security-area",
-    "everything-everywhere-all-at-once",
+    "the-grand-budapest-hotel",
     "fireworks-1997",
+    "everything-everywhere-all-at-once",
+    "manila-in-the-claws-of-light",
     "hope-2013",
+    "poetry",
     "a-silent-voice-the-movie",
     "magnolia",
-    "manila-in-the-claws-of-light",
-    "poetry",
+    "thelma-louise",
     "trainspotting",
     "the-life-and-death-of-colonel-blimp",
-    "thelma-louise",
     "winter-light",
-    "son-of-the-white-mare",
     "persepolis",
     "to-live",
+    "son-of-the-white-mare",
     "mysterious-skin",
     "kagemusha",
     "the-lion-king",
@@ -6017,75 +6337,75 @@
     "the-deer-hunter",
     "casino",
     "once-upon-a-time-in-america",
-    "kwaidan",
     "little-miss-sunshine",
     "kill-bill-vol-1",
+    "kwaidan",
     "the-truman-show",
-    "baththa",
     "azur-asmar-the-princes-quest",
-    "they-shoot-horses-dont-they",
+    "all-of-a-sudden-2026",
     "the-lovers-on-the-bridge",
+    "they-shoot-horses-dont-they",
     "solaris",
     "back-to-the-future",
     "sound-of-metal",
-    "in-the-name-of-the-father-1993",
-    "haikyu-the-dumpster-battle",
     "big-world-2024",
-    "embrace-of-the-serpent",
+    "in-the-name-of-the-father-1993",
     "time-of-the-gypsies",
+    "haikyu-the-dumpster-battle",
+    "embrace-of-the-serpent",
     "the-young-and-the-damned",
     "le-samourai",
-    "all-of-a-sudden-2026",
     "vertigo",
     "the-shining",
     "unforgiven",
     "an-autumn-afternoon",
     "kumbalangi-nights",
     "happy-together-1997",
-    "aftersun",
-    "the-sting",
     "the-childrens-hour",
-    "the-wild-robot",
-    "the-white-ribbon",
-    "drive-my-car",
+    "the-sting",
+    "aftersun",
     "the-taste-of-tea",
+    "the-wild-robot",
+    "drive-my-car",
+    "baththa",
+    "the-white-ribbon",
     "linda-linda-linda",
     "shame",
     "rosemarys-baby",
     "gladiator-2000",
-    "rrr",
     "comrades-almost-a-love-story",
-    "le-cercle-rouge",
+    "rrr",
     "shutter-island",
+    "le-cercle-rouge",
     "roman-holiday",
-    "raging-bull",
     "night-is-short-walk-on-girl",
-    "y-tu-mama-tambien",
     "investigation-of-a-citizen-above-suspicion",
+    "raging-bull",
+    "y-tu-mama-tambien",
     "boogie-nights",
+    "gangs-of-wasseypur-part-2",
     "nirvanna-the-band-the-show-the-movie",
     "the-last-picture-show",
-    "gangs-of-wasseypur-part-2",
     "au-revoir-les-enfants",
     "coraline",
     "nausicaa-of-the-valley-of-the-wind",
-    "a-face-in-the-crowd",
     "amelie",
+    "a-face-in-the-crowd",
     "the-straight-story",
-    "like-father-like-son-2013",
     "vampire-hunter-d-bloodlust",
-    "hard-boiled",
+    "like-father-like-son-2013",
     "cria",
     "joyland-2022",
     "the-man-who-sleeps",
+    "hard-boiled",
     "north-by-northwest",
     "what-ever-happened-to-baby-jane",
     "stand-by-me",
     "hamnet",
     "moonlight-2016",
-    "good-morning",
-    "all-about-my-mother",
     "little-women-2019",
+    "all-about-my-mother",
+    "good-morning",
     "klaus",
     "threads",
     "full-metal-jacket",
@@ -6094,64 +6414,65 @@
     "the-conformist",
     "grand-illusion",
     "the-kid",
-    "whisper-of-the-heart",
-    "diabolique-1955",
     "ivans-childhood",
+    "diabolique-1955",
+    "whisper-of-the-heart",
     "my-life-as-a-zucchini",
+    "amores-perros",
     "all-the-presidents-men",
     "tokyo-sonata",
-    "amores-perros",
-    "playtime",
     "winter-sleep",
     "forrest-gump",
+    "playtime",
     "ernest-celestine",
-    "rashomon",
     "it-happened-one-night",
     "the-long-goodbye",
+    "rashomon",
     "3-idiots",
+    "blue-giant",
     "citizen-kane",
     "mind-game",
     "pixote",
-    "blue-giant",
     "all-quiet-on-the-western-front",
     "a-prophet",
-    "lilya-4-ever",
     "memoir-of-a-snail",
+    "lilya-4-ever",
     "the-matrix",
     "memento",
     "dogville",
     "the-shop-around-the-corner",
     "cabaret",
     "silenced",
-    "mulan",
-    "the-grapes-of-wrath",
-    "celine-and-julie-go-boating",
-    "the-cook-the-thief-his-wife-her-lover",
     "carandiru",
+    "mulan",
+    "celine-and-julie-go-boating",
+    "the-grapes-of-wrath",
+    "the-cook-the-thief-his-wife-her-lover",
     "12-years-a-slave",
     "day-for-night",
-    "in-a-lonely-place",
     "the-general",
+    "in-a-lonely-place",
     "cleo-from-5-to-7",
     "cries-and-whispers",
     "the-killer",
-    "mother-2009",
     "a-dogs-will",
+    "mother-2009",
     "american-history-x",
+    "iron-boy",
     "ali-fear-eats-the-soul",
     "short-term-12-2013",
-    "touch-of-evil",
-    "all-about-lily-chou-chou",
-    "butch-cassidy-and-the-sundance-kid",
     "to-wong-foo-thanks-for-everything-julie-newmar",
+    "all-about-lily-chou-chou",
+    "touch-of-evil",
+    "butch-cassidy-and-the-sundance-kid",
     "who-killed-captain-alex",
-    "sunrise-a-song-of-two-humans",
     "black-swan",
     "the-great-escape",
-    "rome-open-city",
     "through-the-olive-trees",
-    "gueros",
+    "sunrise-a-song-of-two-humans",
     "a-bronx-tale",
+    "rome-open-city",
+    "gueros",
     "love-streams",
     "phantom-thread",
     "the-green-ray",
@@ -6160,70 +6481,69 @@
     "the-fire-within",
     "brokeback-mountain",
     "rio-bravo",
-    "possible-love",
-    "the-ox-bow-incident",
     "cool-hand-luke",
+    "the-ox-bow-incident",
     "pride-2014",
     "how-to-train-your-dragon",
     "star-wars",
     "pink-floyd-the-wall",
-    "iron-boy",
-    "la-strada",
+    "dorothy-2026",
+    "my-fathers-shadow-2025",
     "dial-m-for-murder",
     "society-of-the-snow",
+    "la-strada",
     "after-life",
     "the-intouchables",
-    "mustang-2015",
     "the-second-mother",
-    "on-the-waterfront",
-    "my-fathers-shadow-2025",
+    "mustang-2015",
     "fallen-angels",
-    "dorothy-2026",
+    "on-the-waterfront",
     "i-dream-in-another-language",
+    "12th-fail",
     "scarface-1983",
     "the-return",
-    "12th-fail",
     "past-lives",
+    "love-letter",
     "raiders-of-the-lost-ark",
     "phantom-of-the-paradise",
-    "nashville",
-    "mr-smith-goes-to-washington",
     "pans-labyrinth",
-    "love-letter",
-    "the-virgin-spring",
+    "mr-smith-goes-to-washington",
+    "nashville",
     "the-great-silence",
+    "the-virgin-spring",
     "oppenheimer-2023",
     "synecdoche-new-york",
     "harry-potter-and-the-prisoner-of-azkaban",
-    "sentimental-value-2025",
-    "wild-horse-nine",
-    "midnight-cowboy",
     "punishment-park",
+    "sentimental-value-2025",
+    "midnight-cowboy",
     "redline",
+    "wild-horse-nine",
     "monty-python-and-the-holy-grail",
     "happiness-1965",
+    "possible-love",
     "the-spirit-of-the-beehive",
+    "theres-still-tomorrow",
     "kikis-delivery-service",
     "pride-prejudice",
-    "theres-still-tomorrow",
     "the-hidden-fortress",
     "eat-drink-man-woman",
     "seconds",
     "my-night-at-mauds",
-    "the-umbrellas-of-cherbourg",
     "billy-elliot",
+    "falling-in-love-like-in-movies",
+    "the-umbrellas-of-cherbourg",
     "the-sword-of-doom",
     "arrival-2016",
-    "the-exterminating-angel",
-    "princes-and-princesses",
     "alice-in-the-cities",
-    "rope",
+    "the-exterminating-angel",
     "through-a-glass-darkly",
+    "rope",
     "the-leopard",
     "the-wolf-house",
-    "hiroshima-mon-amour",
+    "princes-and-princesses",
     "sanjuro",
-    "falling-in-love-like-in-movies",
+    "hiroshima-mon-amour",
     "us-and-them-2018",
     "the-conversation",
     "hundreds-of-beavers"
@@ -6488,5 +6808,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-22T23:51:08.571Z"
+ "lastScan": "2026-11-23T00:21:09.843Z"
 }
