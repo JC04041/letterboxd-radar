@@ -2252,5 +2252,19 @@
   "tmdb": 210577,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-600-0-900-crop.jpg?v=dfe3c8018b",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1600212300",
+  "slug": "the-girl-with-the-dragon-tattoo-2011",
+  "title": "The Girl with the Dragon Tattoo",
+  "year": 2011,
+  "watchedDate": "2026-11-23",
+  "published": "Tue, 24 Nov 2026 11:55:26 +1300",
+  "rewatch": true,
+  "rating": 4.5,
+  "liked": true,
+  "tmdb": 65754,
+  "poster": "https://a.ltrbxd.com/resized/sm/upload/0a/ec/72/pb/zHGxi75Ugw69jtCmOK8TvwU588z-0-600-0-900-crop.jpg?v=58931ddc0d",
+  "review": ""
  }
 ]

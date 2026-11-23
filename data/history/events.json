@@ -1844,5 +1844,25 @@
   "title": "Gone Girl",
   "from": 4.5,
   "to": 5
+ },
+ {
+  "t": "2026-11-23T23:24:51.007Z",
+  "type": "watch",
+  "slug": "the-girl-with-the-dragon-tattoo-2011",
+  "title": "The Girl with the Dragon Tattoo",
+  "year": 2011,
+  "rating": 4.5,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-23",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-23T23:24:51.007Z",
+  "type": "rate",
+  "slug": "the-girl-with-the-dragon-tattoo-2011",
+  "title": "The Girl with the Dragon Tattoo",
+  "from": 4,
+  "to": 4.5
  }
 ]
