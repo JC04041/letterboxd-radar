@@ -1864,5 +1864,17 @@
   "title": "The Girl with the Dragon Tattoo",
   "from": 4,
   "to": 4.5
+ },
+ {
+  "t": "2026-11-24T02:25:56.439Z",
+  "type": "watch",
+  "slug": "ride-in-the-whirlwind",
+  "title": "Ride in the Whirlwind",
+  "year": 1966,
+  "rating": 2.5,
+  "liked": false,
+  "rewatch": false,
+  "date": "2026-11-24",
+  "via": "diary"
  }
 ]
