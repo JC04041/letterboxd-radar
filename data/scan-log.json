@@ -1,25 +1,5 @@
 [
  {
-  "t": "2026-11-18T08:29:17.232Z",
-  "mode": "auto",
-  "jobs": {},
-  "blocked": 0,
-  "notes": [],
-  "full": false,
-  "pending": {},
-  "seconds": 3,
-  "http": {
-   "requests": 5,
-   "ok": 5,
-   "notFound": 0,
-   "challenged": 0,
-   "errors": 0,
-   "bytes": 874846
-  },
-  "found": 2026,
-  "total": 2191
- },
- {
   "t": "2026-11-18T08:59:20.310Z",
   "mode": "auto",
   "jobs": {},
@@ -6037,6 +6017,26 @@
   "full": false,
   "pending": {},
   "seconds": 3,
+  "http": {
+   "requests": 5,
+   "ok": 5,
+   "notFound": 0,
+   "challenged": 0,
+   "errors": 0,
+   "bytes": 887138
+  },
+  "found": 2039,
+  "total": 2200
+ },
+ {
+  "t": "2026-11-24T05:26:07.798Z",
+  "mode": "auto",
+  "jobs": {},
+  "blocked": 0,
+  "notes": [],
+  "full": false,
+  "pending": {},
+  "seconds": 2,
   "http": {
    "requests": 5,
    "ok": 5,
