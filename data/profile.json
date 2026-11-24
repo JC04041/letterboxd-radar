@@ -2620,7 +2620,7 @@
    "count": 146,
    "ranked": true,
    "updated": "2026-11-18T13:58:51.494Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "tuner",
@@ -3213,7 +3213,7 @@
    "count": 1,
    "ranked": true,
    "updated": "2026-09-09T22:21:19.759Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "company-2026",
@@ -3226,7 +3226,7 @@
    "count": 23,
    "ranked": false,
    "updated": "2026-08-12T15:22:36.085Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "collateral",
@@ -3327,7 +3327,7 @@
    "count": 13,
    "ranked": true,
    "updated": "2026-07-22T12:30:58.399Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "inception",
@@ -3388,7 +3388,7 @@
    "count": 31,
    "ranked": true,
    "updated": "2026-06-10T22:04:23.746Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "the-fabelmans",
@@ -3521,7 +3521,7 @@
    "count": 15,
    "ranked": true,
    "updated": "2026-05-08T20:32:58.966Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "dazed-and-confused",
@@ -3590,7 +3590,7 @@
    "count": 151,
    "ranked": false,
    "updated": "2026-03-31T23:49:56.952Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "rap-world",
@@ -4203,7 +4203,7 @@
    "count": 167,
    "ranked": true,
    "updated": "2026-03-28T17:03:37.534Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "one-battle-after-another",
@@ -4880,7 +4880,7 @@
    "count": 82,
    "ranked": true,
    "updated": "2026-11-05T20:06:06.727Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "oppenheimer-2023",
@@ -5217,7 +5217,7 @@
    "count": 9,
    "ranked": true,
    "updated": "2026-11-23T22:55:49.635Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "zodiac",
@@ -5262,7 +5262,7 @@
    "count": 130,
    "ranked": true,
    "updated": "2026-11-23T00:05:53.041Z",
-   "at": "2026-11-23",
+   "at": "2026-11-24",
    "items": [
     [
      "dune-part-two",
@@ -5787,7 +5787,7 @@
    ]
   }
  },
- "lastFull": "2026-11-23T23:54:54.945Z",
+ "lastFull": "2026-11-24T05:56:10.913Z",
  "canon": {
   "dave/list/official-top-250-narrative-feature-films": {
    "title": "dave/list/official-top-250-narrative-feature-films",
@@ -6816,5 +6816,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-24T05:26:07.798Z"
+ "lastScan": "2026-11-24T05:56:10.913Z"
 }
