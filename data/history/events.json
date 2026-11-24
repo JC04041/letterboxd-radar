@@ -1876,5 +1876,29 @@
   "rewatch": false,
   "date": "2026-11-24",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-24T18:28:12.202Z",
+  "type": "watch",
+  "slug": "the-social-network",
+  "title": "The Social Network",
+  "year": 2010,
+  "rating": 5,
+  "liked": true,
+  "rewatch": true,
+  "date": "2026-11-24",
+  "via": "diary"
+ },
+ {
+  "t": "2026-11-24T18:28:12.202Z",
+  "type": "watch",
+  "slug": "you-can-see-everything",
+  "title": "You Can See Everything",
+  "year": 2026,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-24",
+  "via": "diary"
  }
 ]
