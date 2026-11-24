@@ -92,7 +92,7 @@
   {
    "slug": "fincher-ranked-updated-2026",
    "title": "Fincher Ranked Updated 2026",
-   "count": 9,
+   "count": 10,
    "description": ""
   },
   {
@@ -5214,11 +5214,15 @@
   },
   "fincher-ranked-updated-2026": {
    "title": "Fincher Ranked Updated 2026",
-   "count": 9,
+   "count": 10,
    "ranked": true,
-   "updated": "2026-11-23T22:55:49.635Z",
+   "updated": "2026-11-24T16:36:38.742Z",
    "at": "2026-11-24",
    "items": [
+    [
+     "the-social-network",
+     5
+    ],
     [
      "zodiac",
      5
@@ -6816,5 +6820,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-24T16:28:02.325Z"
+ "lastScan": "2026-11-24T16:58:04.995Z"
 }
