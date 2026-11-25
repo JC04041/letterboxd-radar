@@ -2308,5 +2308,19 @@
   "tmdb": 1765072,
   "poster": "https://a.ltrbxd.com/resized/film-poster/1/6/2/9/4/4/3/1629443-you-can-see-everything-0-600-0-900-crop.jpg?v=84f6724d74",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1601637441",
+  "slug": "mank",
+  "title": "Mank",
+  "year": 2020,
+  "watchedDate": "2026-11-24",
+  "published": "Wed, 25 Nov 2026 13:23:01 +1300",
+  "rewatch": false,
+  "rating": 3.5,
+  "liked": false,
+  "tmdb": 614560,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/4/1/4/2/5/541425-mank-0-600-0-900-crop.jpg?v=a8a9533853",
+  "review": ""
  }
 ]

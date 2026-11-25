@@ -1,5 +1,5 @@
 {
- "watchedTotal": 2201,
+ "watchedTotal": 2202,
  "recent": [
   "madden-2026",
   "clayface",
@@ -90,15 +90,15 @@
  ],
  "listsIndex": [
   {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 147,
+   "slug": "fincher-ranked-updated-2026",
+   "title": "Fincher Ranked Updated 2026",
+   "count": 11,
    "description": ""
   },
   {
-   "slug": "fincher-ranked-updated-2026",
-   "title": "Fincher Ranked Updated 2026",
-   "count": 10,
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 147,
    "description": ""
   },
   {
@@ -2211,7 +2211,7 @@
    "count": 100,
    "ranked": true,
    "updated": "2026-10-30T02:41:37.616Z",
-   "at": "2026-11-24",
+   "at": "2026-11-25",
    "items": [
     [
      "goodfellas",
@@ -5218,10 +5218,10 @@
   },
   "fincher-ranked-updated-2026": {
    "title": "Fincher Ranked Updated 2026",
-   "count": 10,
+   "count": 11,
    "ranked": true,
-   "updated": "2026-11-24T16:36:38.742Z",
-   "at": "2026-11-24",
+   "updated": "2026-11-25T00:23:20.407Z",
+   "at": "2026-11-25",
    "items": [
     [
      "the-social-network",
@@ -5258,6 +5258,10 @@
     [
      "panic-room",
      4
+    ],
+    [
+     "mank",
+     3.5
     ],
     [
      "alien-3",
@@ -6824,5 +6828,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-24T23:59:18.419Z"
+ "lastScan": "2026-11-25T00:29:20.136Z"
 }
