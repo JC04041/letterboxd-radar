@@ -90,15 +90,15 @@
  ],
  "listsIndex": [
   {
-   "slug": "fincher-ranked-updated-2026",
-   "title": "Fincher Ranked Updated 2026",
-   "count": 12,
+   "slug": "2026-ranked",
+   "title": "2026 Ranked",
+   "count": 148,
    "description": ""
   },
   {
-   "slug": "2026-ranked",
-   "title": "2026 Ranked",
-   "count": 147,
+   "slug": "fincher-ranked-updated-2026",
+   "title": "Fincher Ranked Updated 2026",
+   "count": 12,
    "description": ""
   },
   {
@@ -2617,9 +2617,9 @@
   },
   "2026-ranked": {
    "title": "2026 Ranked",
-   "count": 147,
+   "count": 148,
    "ranked": true,
-   "updated": "2026-11-24T18:14:16.650Z",
+   "updated": "2026-11-26T13:24:06.431Z",
    "at": "2026-11-26",
    "items": [
     [
@@ -3209,6 +3209,10 @@
     [
      "you-can-see-everything",
      0
+    ],
+    [
+     "the-further-mis-adventures-of-cliff-booth",
+     3.5
     ]
    ]
   },
@@ -6832,5 +6836,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-26T13:14:12.456Z"
+ "lastScan": "2026-11-26T13:44:14.313Z"
 }
