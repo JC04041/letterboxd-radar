@@ -2034,5 +2034,17 @@
   "title": "Moneyball",
   "from": 5,
   "to": 4
+ },
+ {
+  "t": "2026-11-27T20:26:37.275Z",
+  "type": "watch",
+  "slug": "not-a-pretty-picture",
+  "title": "Not a Pretty Picture",
+  "year": 1976,
+  "rating": null,
+  "liked": true,
+  "rewatch": false,
+  "date": "2026-11-27",
+  "via": "diary"
  }
 ]

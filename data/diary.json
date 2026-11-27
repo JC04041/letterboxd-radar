@@ -2350,5 +2350,19 @@
   "tmdb": 1381,
   "poster": "https://a.ltrbxd.com/resized/sm/upload/ik/k2/ap/k2/the-fountain-0-600-0-900-crop.jpg?v=fb17f64db0",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1605241994",
+  "slug": "not-a-pretty-picture",
+  "title": "Not a Pretty Picture",
+  "year": 1976,
+  "watchedDate": "2026-11-27",
+  "published": "Sat, 28 Nov 2026 09:04:36 +1300",
+  "rewatch": false,
+  "rating": null,
+  "liked": true,
+  "tmdb": 432907,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/5/9/6/8/365968-not-a-pretty-picture-0-600-0-900-crop.jpg?v=2fab31e812",
+  "review": ""
  }
 ]
