@@ -1936,5 +1936,95 @@
   "rewatch": false,
   "date": "2026-11-26",
   "via": "diary"
+ },
+ {
+  "t": "2026-11-27T00:31:48.314Z",
+  "type": "newfilm",
+  "director": "quentin-tarantino",
+  "name": "Quentin Tarantino",
+  "slug": "untitled-quentin-tarantino-project",
+  "title": "Untitled Quentin Tarantino Project",
+  "year": null
+ },
+ {
+  "t": "2026-11-27T00:31:59.313Z",
+  "type": "newfilm",
+  "director": "steven-spielberg",
+  "name": "Steven Spielberg",
+  "slug": "the-heart-in-winter",
+  "title": "The Heart in Winter",
+  "year": null
+ },
+ {
+  "t": "2026-11-27T00:32:00.804Z",
+  "type": "newfilm",
+  "director": "bong-joon-ho",
+  "name": "Bong Joon Ho",
+  "slug": "ally-2027",
+  "title": "Ally",
+  "year": 2027
+ },
+ {
+  "t": "2026-11-27T00:33:36.310Z",
+  "type": "newfilm",
+  "director": "ridley-scott",
+  "name": "Ridley Scott",
+  "slug": "blade-runner-final-cut",
+  "title": "Blade Runner: Final Cut",
+  "year": 2007
+ },
+ {
+  "t": "2026-11-27T00:33:42.317Z",
+  "type": "newfilm",
+  "director": "david-lynch",
+  "name": "David Lynch",
+  "slug": "blue-green",
+  "title": "Blue Green",
+  "year": 2007
+ },
+ {
+  "t": "2026-11-27T00:33:43.806Z",
+  "type": "newfilm",
+  "director": "wes-craven",
+  "name": "Wes Craven",
+  "slug": "pere-lachaise-2006",
+  "title": "Père-Lachaise",
+  "year": 2006
+ },
+ {
+  "t": "2026-11-27T00:33:50.304Z",
+  "type": "newfilm",
+  "director": "m-night-shyamalan",
+  "name": "M. Night Shyamalan",
+  "slug": "untitled-m-night-shyamalan-film",
+  "title": "Untitled M. Night Shyamalan Film",
+  "year": null
+ },
+ {
+  "t": "2026-11-27T00:35:21.369Z",
+  "type": "newfilm",
+  "director": "michael-curtiz",
+  "name": "Michael Curtiz",
+  "slug": "a-deadly-game",
+  "title": "A Deadly Game",
+  "year": 1924
+ },
+ {
+  "t": "2026-11-27T00:35:21.369Z",
+  "type": "newfilm",
+  "director": "michael-curtiz",
+  "name": "Michael Curtiz",
+  "slug": "general-babka-1924",
+  "title": "General Babka",
+  "year": 1924
+ },
+ {
+  "t": "2026-11-27T00:35:21.369Z",
+  "type": "newfilm",
+  "director": "michael-curtiz",
+  "name": "Michael Curtiz",
+  "slug": "prisoner-of-the-night-1914",
+  "title": "Prisoner of the Night",
+  "year": 1914
  }
 ]
