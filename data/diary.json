@@ -2364,5 +2364,19 @@
   "tmdb": 432907,
   "poster": "https://a.ltrbxd.com/resized/film-poster/3/6/5/9/6/8/365968-not-a-pretty-picture-0-600-0-900-crop.jpg?v=2fab31e812",
   "review": ""
+ },
+ {
+  "id": "letterboxd-watch-1605668676",
+  "slug": "total-recall",
+  "title": "Total Recall",
+  "year": 1990,
+  "watchedDate": "2026-11-27",
+  "published": "Sat, 28 Nov 2026 14:01:01 +1300",
+  "rewatch": false,
+  "rating": 4,
+  "liked": true,
+  "tmdb": 861,
+  "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/1/51291-total-recall-0-600-0-900-crop.jpg?v=85f262b6c9",
+  "review": ""
  }
 ]
