@@ -90,6 +90,12 @@
  ],
  "listsIndex": [
   {
+   "slug": "favourite-from-my-top-100-filmmakers",
+   "title": "Favourite From My Top 100 Filmmakers",
+   "count": 100,
+   "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
+  },
+  {
    "slug": "eoy-watchlist",
    "title": "Eoy watchlist",
    "count": 6,
@@ -118,12 +124,6 @@
    "title": "2023 Ranked",
    "count": 82,
    "description": ""
-  },
-  {
-   "slug": "favourite-from-my-top-100-filmmakers",
-   "title": "Favourite From My Top 100 Filmmakers",
-   "count": 100,
-   "description": "1. Martin Scorsese 2. Paul Thomas Anderson 3. Christopher Nolan 4. David Fincher 5. Quentin Tarantino 6. Damien Chazelle 7. Miloš Forman 8. Richard Linklater 9. Denis Villeneuve 10. Michael Mann 11. Jacques Demy 12. Peter"
   },
   {
    "slug": "2027-ranked",
@@ -165,7 +165,7 @@
  "top100": {
   "slug": "favourite-from-my-top-100-filmmakers",
   "title": "Favourite From My Top 100 Filmmakers",
-  "updated": "2026-10-30T02:41:37.616Z",
+  "updated": "2026-11-28T14:36:32.153Z",
   "notes": {
    "ranked": [
     {
@@ -579,6 +579,7 @@
       "Dassin",
       "Polanski",
       "Possibly Soon",
+      "Verhoeven",
       "Greg Mottola",
       "Kenneth Lonnergan",
       "Elaine May",
@@ -2142,6 +2143,12 @@
       ]
      },
      {
+      "name": "Verhoeven",
+      "slugs": [
+       "paul-verhoeven-3"
+      ]
+     },
+     {
       "name": "Greg Mottola",
       "slugs": [
        "greg-mottola"
@@ -2210,7 +2217,7 @@
    "title": "Favourite From My Top 100 Filmmakers",
    "count": 100,
    "ranked": true,
-   "updated": "2026-10-30T02:41:37.616Z",
+   "updated": "2026-11-28T14:36:32.153Z",
    "at": "2026-11-28",
    "items": [
     [
@@ -6192,5 +6199,5 @@
  },
  "firstScan": "2026-09-28T01:09:18.395Z",
  "username": "josephcurrid",
- "lastScan": "2026-11-28T14:30:45.379Z"
+ "lastScan": "2026-11-28T15:00:47.983Z"
 }
